@@ -51,8 +51,23 @@ public class PlayerController : MonoBehaviour
         rb.linearVelocity = new Vector2(moveInput * speed, rb.linearVelocity.y);
     }
 
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            isGrounded = true;
+        }
+    }
 
-    //Inputs metodos
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            isGrounded = false;
+        }
+    }
+
+    //METODOS DE INPUTS
     public void OnMove(InputValue value)
     {
         moveInput = value.Get<float>();
@@ -64,7 +79,23 @@ public class PlayerController : MonoBehaviour
     {
         if (value.isPressed && isGrounded == true)
         {
-            rb.AddForce(Vector2.up * jumpForce);
+            rb.AddForce(Vector2.up * (jumpForce*20), ForceMode2D.Impulse);  //El *20 es para ajustar la jumpForce para que sea más comodo des del inspector
+        }
+    }
+
+    public void OnAttack(InputValue value)
+    {
+        if (value.isPressed)
+        {
+            if (isGrounded == true)
+            { 
+                Debug.Log("Attack");
+            }
+            else if(isGrounded == false)
+            {
+                Debug.Log("Air Attack");
+            }
+
         }
     }
 
