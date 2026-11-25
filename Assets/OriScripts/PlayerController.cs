@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using System.Collections;
 
 public class PlayerController : MonoBehaviour
 {
@@ -17,13 +18,15 @@ public class PlayerController : MonoBehaviour
     [Header("Movement")]
     [SerializeField]
     private float speed;
+
+    private float moveInputX;
+    private float moveInputY;
+
+    [Header("Attack")]
     [SerializeField]
-    private float jumpForce;
+    private GameObject attackCollider; //Provisional
 
-    private float moveInput;
-    private bool isGrounded;
-
-    [Header("Components")]
+    [Header("Other")]
     private Rigidbody2D rb;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -36,11 +39,11 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         //player mira a donde camina
-        if (moveInput > 0)
+        if (moveInputX > 0)
         { 
             transform.localScale = new Vector3(1, 1, 1);
         }
-        else if (moveInput < 0)
+        else if (moveInputX < 0)
         {
             transform.localScale = new Vector3(-1, 1, 1);
         }
@@ -48,56 +51,68 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        rb.linearVelocity = new Vector2(moveInput * speed, rb.linearVelocity.y);
+        rb.linearVelocity = new Vector2(moveInputX * speed, moveInputY * speed);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Ground"))
-        {
-            isGrounded = true;
-        }
+
     }
 
-    private void OnCollisionExit2D(Collision2D collision)
-    {
-        if (collision.gameObject.CompareTag("Ground"))
-        {
-            isGrounded = false;
-        }
-    }
+
 
     //METODOS DE INPUTS
     public void OnMove(InputValue value)
     {
-        moveInput = value.Get<float>();
+        moveInputX = value.Get<Vector2>().x;
+        moveInputY = value.Get<Vector2>().y;
     }
 
 
 
-    public void OnJump(InputValue value)
-    {
-        if (value.isPressed && isGrounded == true)
-        {
-            rb.AddForce(Vector2.up * (jumpForce*20), ForceMode2D.Impulse);  //El *20 es para ajustar la jumpForce para que sea más comodo des del inspector
-        }
-    }
+
 
     public void OnAttack(InputValue value)
     {
         if (value.isPressed)
         {
-            if (isGrounded == true)
-            { 
-                Debug.Log("Attack");
-            }
-            else if(isGrounded == false)
-            {
-                Debug.Log("Air Attack");
-            }
-
+            Debug.Log("Attack");
+            StartCoroutine(AttackCoroutine());
         }
     }
 
-
+    IEnumerator AttackCoroutine()
+    {
+        attackCollider.SetActive(true);
+        yield return new WaitForSeconds(0.5f); // Duración del ataque
+        attackCollider.SetActive(false);
+    }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
