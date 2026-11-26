@@ -1,0 +1,483 @@
+fileFormatVersion: 2
+guid: 91e856f1407664d409d59e4a66744762
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4593887557228673888
+    second: 12. Cave Entrances_0
+  - first:
+      213: 2936865340865445824
+    second: 12. Cave Entrances_1
+  - first:
+      213: 8528574529907751341
+    second: 12. Cave Entrances_2
+  - first:
+      213: 3148794627088211787
+    second: 12. Cave Entrances_3
+  - first:
+      213: 2374861124705190064
+    second: 12. Cave Entrances_4
+  - first:
+      213: -1865234027426174830
+    second: 12. Cave Entrances_5
+  - first:
+      213: -173746069864551604
+    second: 12. Cave Entrances_6
+  - first:
+      213: -436897131931490268
+    second: 12. Cave Entrances_7
+  - first:
+      213: -5193552392433663706
+    second: 12. Cave Entrances_8
+  - first:
+      213: -6818077933346482141
+    second: 12. Cave Entrances_9
+  - first:
+      213: 602989224132371340
+    second: 12. Cave Entrances_10
+  - first:
+      213: 6262588662621406931
+    second: 12. Cave Entrances_11
+  - first:
+      213: 2210980105754932110
+    second: 12. Cave Entrances_12
+  - first:
+      213: 13638325809923671
+    second: 12. Cave Entrances_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 12. Cave Entrances_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 553
+        width: 358
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bb3b2d464c0cf30800000000000000
+      internalID: 4593887557228673888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12. Cave Entrances_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 786
+        width: 984
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cff073a777d1c820800000000000000
+      internalID: 2936865340865445824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12. Cave Entrances_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 550
+        width: 385
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9789f39559b5670800000000000000
+      internalID: 8528574529907751341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12. Cave Entrances_3
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 548
+        width: 442
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f5042c704c2bb20800000000000000
+      internalID: 3148794627088211787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12. Cave Entrances_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 527
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b000f04c9335f020800000000000000
+      internalID: 2374861124705190064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12. Cave Entrances_5
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 549
+        width: 379
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298aa44d88b5d16e0800000000000000
+      internalID: -1865234027426174830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12. Cave Entrances_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 306
+        width: 305
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b6a98bedab69df0800000000000000
+      internalID: -173746069864551604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12. Cave Entrances_7
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 309
+        width: 326
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42826df8f54dfe9f0800000000000000
+      internalID: -436897131931490268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12. Cave Entrances_8
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 302
+        width: 404
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6218c9e9d9bcce7b0800000000000000
+      internalID: -5193552392433663706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12. Cave Entrances_9
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 303
+        width: 409
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32814fb4e325161a0800000000000000
+      internalID: -6818077933346482141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12. Cave Entrances_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 367
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c836ccb218f3e5800800000000000000
+      internalID: 602989224132371340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12. Cave Entrances_11
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 56
+        width: 352
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d600f1453f29e650800000000000000
+      internalID: 6262588662621406931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12. Cave Entrances_12
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 53
+        width: 422
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e837af021bafeae10800000000000000
+      internalID: 2210980105754932110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12. Cave Entrances_13
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 52
+        width: 400
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7564b3d2cf3703000800000000000000
+      internalID: 13638325809923671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      12. Cave Entrances_0: 4593887557228673888
+      12. Cave Entrances_1: 2936865340865445824
+      12. Cave Entrances_10: 602989224132371340
+      12. Cave Entrances_11: 6262588662621406931
+      12. Cave Entrances_12: 2210980105754932110
+      12. Cave Entrances_13: 13638325809923671
+      12. Cave Entrances_2: 8528574529907751341
+      12. Cave Entrances_3: 3148794627088211787
+      12. Cave Entrances_4: 2374861124705190064
+      12. Cave Entrances_5: -1865234027426174830
+      12. Cave Entrances_6: -173746069864551604
+      12. Cave Entrances_7: -436897131931490268
+      12. Cave Entrances_8: -5193552392433663706
+      12. Cave Entrances_9: -6818077933346482141
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

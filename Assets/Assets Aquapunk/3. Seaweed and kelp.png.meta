@@ -1,0 +1,1055 @@
+fileFormatVersion: 2
+guid: 2218d238dfd3ebc45b31ab740cfdfb6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7563383553523155013
+    second: 3. Seaweed and kelp_0
+  - first:
+      213: 8870447981104813566
+    second: 3. Seaweed and kelp_1
+  - first:
+      213: -5895824302388207389
+    second: 3. Seaweed and kelp_2
+  - first:
+      213: -6052368187537198464
+    second: 3. Seaweed and kelp_3
+  - first:
+      213: 4348171763162730595
+    second: 3. Seaweed and kelp_4
+  - first:
+      213: -305398687209989141
+    second: 3. Seaweed and kelp_5
+  - first:
+      213: 5051350696217331370
+    second: 3. Seaweed and kelp_6
+  - first:
+      213: -7182856310556962702
+    second: 3. Seaweed and kelp_7
+  - first:
+      213: 716523092199793060
+    second: 3. Seaweed and kelp_8
+  - first:
+      213: 3552518878077162715
+    second: 3. Seaweed and kelp_9
+  - first:
+      213: 6537841230098721151
+    second: 3. Seaweed and kelp_10
+  - first:
+      213: -4792887841404439628
+    second: 3. Seaweed and kelp_11
+  - first:
+      213: -91402417139255876
+    second: 3. Seaweed and kelp_12
+  - first:
+      213: 3152435721131426970
+    second: 3. Seaweed and kelp_13
+  - first:
+      213: 4075794328043640468
+    second: 3. Seaweed and kelp_14
+  - first:
+      213: 4708795324463606181
+    second: 3. Seaweed and kelp_15
+  - first:
+      213: 2542807324998062771
+    second: 3. Seaweed and kelp_16
+  - first:
+      213: 7395741340905720326
+    second: 3. Seaweed and kelp_17
+  - first:
+      213: 6046231838056515056
+    second: 3. Seaweed and kelp_18
+  - first:
+      213: -9136824914759117394
+    second: 3. Seaweed and kelp_19
+  - first:
+      213: 5488643990363923726
+    second: 3. Seaweed and kelp_20
+  - first:
+      213: 3449901681080854391
+    second: 3. Seaweed and kelp_21
+  - first:
+      213: 8888236299933690706
+    second: 3. Seaweed and kelp_22
+  - first:
+      213: 7683744240389311520
+    second: 3. Seaweed and kelp_23
+  - first:
+      213: 8158664767070254753
+    second: 3. Seaweed and kelp_24
+  - first:
+      213: 3620946730826502511
+    second: 3. Seaweed and kelp_25
+  - first:
+      213: 8926109651468286711
+    second: 3. Seaweed and kelp_26
+  - first:
+      213: -87874912062472388
+    second: 3. Seaweed and kelp_27
+  - first:
+      213: -2996582661139955012
+    second: 3. Seaweed and kelp_28
+  - first:
+      213: -3447523523536644303
+    second: 3. Seaweed and kelp_29
+  - first:
+      213: -4245826570646860463
+    second: 3. Seaweed and kelp_30
+  - first:
+      213: 685188962164611560
+    second: 3. Seaweed and kelp_31
+  - first:
+      213: 5602065259303525431
+    second: 3. Seaweed and kelp_32
+  - first:
+      213: 4116731530067789146
+    second: 3. Seaweed and kelp_33
+  - first:
+      213: -3663577225269936045
+    second: 3. Seaweed and kelp_34
+  - first:
+      213: 1253127702611521583
+    second: 3. Seaweed and kelp_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 204
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf78380bb6790790800000000000000
+      internalID: -7563383553523155013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_1
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 801
+        width: 856
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef55550f0792a1b70800000000000000
+      internalID: 8870447981104813566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_2
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 465
+        width: 174
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0290ec803dd2ea0800000000000000
+      internalID: -5895824302388207389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 465
+        width: 107
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08278f3433ba10ca0800000000000000
+      internalID: -6052368187537198464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_4
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 465
+        width: 97
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360d2b55e2fc75c30800000000000000
+      internalID: 4348171763162730595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_5
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 465
+        width: 94
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb5af5138103cbf0800000000000000
+      internalID: -305398687209989141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_6
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 465
+        width: 86
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6c4fbe1b00a1640800000000000000
+      internalID: 5051350696217331370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_7
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 465
+        width: 79
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2705490fd3e515c90800000000000000
+      internalID: -7182856310556962702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_8
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 465
+        width: 78
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1eeefb4f991f900800000000000000
+      internalID: 716523092199793060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_9
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 465
+        width: 93
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd498a9f8151d4130800000000000000
+      internalID: 3552518878077162715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_10
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 465
+        width: 96
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79efe5b5f31bba50800000000000000
+      internalID: 6537841230098721151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_11
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 465
+        width: 120
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3bccce6ed3c7db0800000000000000
+      internalID: -4792887841404439628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_12
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 465
+        width: 116
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb57dc26cf54bbef0800000000000000
+      internalID: -91402417139255876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 236
+        width: 106
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a948a470693bfbb20800000000000000
+      internalID: 3152435721131426970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 235
+        width: 108
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496d79cc851209830800000000000000
+      internalID: 4075794328043640468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_15
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 235
+        width: 123
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a96caa3660095140800000000000000
+      internalID: 4708795324463606181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_16
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 232
+        width: 156
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b255ca2acdd94320800000000000000
+      internalID: 2542807324998062771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_17
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 235
+        width: 106
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a4b53b093f2a660800000000000000
+      internalID: 7395741340905720326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_18
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 235
+        width: 115
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5040982d788e350800000000000000
+      internalID: 6046231838056515056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_19
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 234
+        width: 118
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea518d4262a733180800000000000000
+      internalID: -9136824914759117394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_20
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 232
+        width: 107
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05693011a49b2c40800000000000000
+      internalID: 5488643990363923726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_21
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 234
+        width: 130
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777e8d2fc4380ef20800000000000000
+      internalID: 3449901681080854391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_22
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 235
+        width: 111
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ba749a2db595b70800000000000000
+      internalID: 8888236299933690706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_23
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 235
+        width: 123
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ccb592da422aa60800000000000000
+      internalID: 7683744240389311520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6b7b21166693170800000000000000
+      internalID: 8158664767070254753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 49
+        width: 78
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f619689fddf204230800000000000000
+      internalID: 3620946730826502511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_26
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 50
+        width: 62
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7faf3f97f69efdb70800000000000000
+      internalID: 8926109651468286711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_27
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 50
+        width: 66
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ff8d9ab3ec7cef0800000000000000
+      internalID: -87874912062472388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_28
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 49
+        width: 77
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb288ae32fff966d0800000000000000
+      internalID: -2996582661139955012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_29
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 46
+        width: 100
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1379bc00f9fe720d0800000000000000
+      internalID: -3447523523536644303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_30
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 46
+        width: 134
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dcda6ba3bc315c0800000000000000
+      internalID: -4245826570646860463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_31
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 46
+        width: 143
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e917d51bb7428900800000000000000
+      internalID: 685188962164611560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_32
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 49
+        width: 115
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cd75d1ca88ebd40800000000000000
+      internalID: 5602065259303525431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_33
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 46
+        width: 111
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a554755e381912930800000000000000
+      internalID: 4116731530067789146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_34
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 50
+        width: 110
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35003909ceb582dc0800000000000000
+      internalID: -3663577225269936045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Seaweed and kelp_35
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 50
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f207c549101046110800000000000000
+      internalID: 1253127702611521583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      3. Seaweed and kelp_0: -7563383553523155013
+      3. Seaweed and kelp_1: 8870447981104813566
+      3. Seaweed and kelp_10: 6537841230098721151
+      3. Seaweed and kelp_11: -4792887841404439628
+      3. Seaweed and kelp_12: -91402417139255876
+      3. Seaweed and kelp_13: 3152435721131426970
+      3. Seaweed and kelp_14: 4075794328043640468
+      3. Seaweed and kelp_15: 4708795324463606181
+      3. Seaweed and kelp_16: 2542807324998062771
+      3. Seaweed and kelp_17: 7395741340905720326
+      3. Seaweed and kelp_18: 6046231838056515056
+      3. Seaweed and kelp_19: -9136824914759117394
+      3. Seaweed and kelp_2: -5895824302388207389
+      3. Seaweed and kelp_20: 5488643990363923726
+      3. Seaweed and kelp_21: 3449901681080854391
+      3. Seaweed and kelp_22: 8888236299933690706
+      3. Seaweed and kelp_23: 7683744240389311520
+      3. Seaweed and kelp_24: 8158664767070254753
+      3. Seaweed and kelp_25: 3620946730826502511
+      3. Seaweed and kelp_26: 8926109651468286711
+      3. Seaweed and kelp_27: -87874912062472388
+      3. Seaweed and kelp_28: -2996582661139955012
+      3. Seaweed and kelp_29: -3447523523536644303
+      3. Seaweed and kelp_3: -6052368187537198464
+      3. Seaweed and kelp_30: -4245826570646860463
+      3. Seaweed and kelp_31: 685188962164611560
+      3. Seaweed and kelp_32: 5602065259303525431
+      3. Seaweed and kelp_33: 4116731530067789146
+      3. Seaweed and kelp_34: -3663577225269936045
+      3. Seaweed and kelp_35: 1253127702611521583
+      3. Seaweed and kelp_4: 4348171763162730595
+      3. Seaweed and kelp_5: -305398687209989141
+      3. Seaweed and kelp_6: 5051350696217331370
+      3. Seaweed and kelp_7: -7182856310556962702
+      3. Seaweed and kelp_8: 716523092199793060
+      3. Seaweed and kelp_9: 3552518878077162715
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1211 @@
+fileFormatVersion: 2
+guid: f551e31ca0a34c84fa6b5ecbbef739da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1690713267927188794
+    second: 10. Ruins pillars and columns_0
+  - first:
+      213: 8091940385377731601
+    second: 10. Ruins pillars and columns_1
+  - first:
+      213: -3324938483908203714
+    second: 10. Ruins pillars and columns_2
+  - first:
+      213: -3064615943394118654
+    second: 10. Ruins pillars and columns_3
+  - first:
+      213: 5538607224300412814
+    second: 10. Ruins pillars and columns_4
+  - first:
+      213: -3603817428020708382
+    second: 10. Ruins pillars and columns_5
+  - first:
+      213: -5307937668863464853
+    second: 10. Ruins pillars and columns_6
+  - first:
+      213: 7259721915236693636
+    second: 10. Ruins pillars and columns_7
+  - first:
+      213: 2574451000792743139
+    second: 10. Ruins pillars and columns_8
+  - first:
+      213: 4145702734997499247
+    second: 10. Ruins pillars and columns_9
+  - first:
+      213: 6057173001261784764
+    second: 10. Ruins pillars and columns_10
+  - first:
+      213: 2858525730047999886
+    second: 10. Ruins pillars and columns_11
+  - first:
+      213: -8149209403045503038
+    second: 10. Ruins pillars and columns_12
+  - first:
+      213: -8436503501740284632
+    second: 10. Ruins pillars and columns_13
+  - first:
+      213: -4736164843622133080
+    second: 10. Ruins pillars and columns_14
+  - first:
+      213: -8424120522790219197
+    second: 10. Ruins pillars and columns_15
+  - first:
+      213: 3754629023837264911
+    second: 10. Ruins pillars and columns_16
+  - first:
+      213: -7842317393057982714
+    second: 10. Ruins pillars and columns_17
+  - first:
+      213: -3397339642040147359
+    second: 10. Ruins pillars and columns_18
+  - first:
+      213: -3507251963994313976
+    second: 10. Ruins pillars and columns_19
+  - first:
+      213: -1878441469983600734
+    second: 10. Ruins pillars and columns_20
+  - first:
+      213: -2071460025577982148
+    second: 10. Ruins pillars and columns_21
+  - first:
+      213: -9003130096594577040
+    second: 10. Ruins pillars and columns_22
+  - first:
+      213: -5562468605915217118
+    second: 10. Ruins pillars and columns_23
+  - first:
+      213: -4601723879245620952
+    second: 10. Ruins pillars and columns_24
+  - first:
+      213: 6760635180863991633
+    second: 10. Ruins pillars and columns_25
+  - first:
+      213: -983958540598641019
+    second: 10. Ruins pillars and columns_26
+  - first:
+      213: -3581191841882329264
+    second: 10. Ruins pillars and columns_27
+  - first:
+      213: 848890067911552747
+    second: 10. Ruins pillars and columns_28
+  - first:
+      213: -1513709677563773305
+    second: 10. Ruins pillars and columns_29
+  - first:
+      213: 549038508077905241
+    second: 10. Ruins pillars and columns_30
+  - first:
+      213: -652888840884648394
+    second: 10. Ruins pillars and columns_31
+  - first:
+      213: 1126980119876967326
+    second: 10. Ruins pillars and columns_32
+  - first:
+      213: -6445146367931665048
+    second: 10. Ruins pillars and columns_33
+  - first:
+      213: 7450011962260865616
+    second: 10. Ruins pillars and columns_34
+  - first:
+      213: -2614562075001651161
+    second: 10. Ruins pillars and columns_35
+  - first:
+      213: 979570258706719993
+    second: 10. Ruins pillars and columns_36
+  - first:
+      213: -4506234153147113371
+    second: 10. Ruins pillars and columns_37
+  - first:
+      213: 4772083601805715120
+    second: 10. Ruins pillars and columns_38
+  - first:
+      213: -7940385472207241124
+    second: 10. Ruins pillars and columns_39
+  - first:
+      213: -1690028235661312330
+    second: 10. Ruins pillars and columns_40
+  - first:
+      213: 6254427573016137483
+    second: 10. Ruins pillars and columns_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 170
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3507d762ce967710800000000000000
+      internalID: 1690713267927188794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 801
+        width: 890
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114c31658e85c4070800000000000000
+      internalID: 8091940385377731601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_2
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 528
+        width: 194
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b20aea0127bd1d0800000000000000
+      internalID: -3324938483908203714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 528
+        width: 110
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204bef8590c4875d0800000000000000
+      internalID: -3064615943394118654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 527
+        width: 102
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f96dafce51ddc40800000000000000
+      internalID: 5538607224300412814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_5
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 527
+        width: 105
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebb67f942bacfdc0800000000000000
+      internalID: -3603817428020708382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_6
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 528
+        width: 93
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a6a7510da6656b0800000000000000
+      internalID: -5307937668863464853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_7
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 528
+        width: 102
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4863dc54e96bfb460800000000000000
+      internalID: 7259721915236693636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_8
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 528
+        width: 108
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec76e19b894ab320800000000000000
+      internalID: 2574451000792743139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_9
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 528
+        width: 107
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d24ef2cae788930800000000000000
+      internalID: 4145702734997499247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 357
+        width: 95
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe9b4b90c66f0450800000000000000
+      internalID: 6057173001261784764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_11
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 356
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f33d0a1068ba720800000000000000
+      internalID: 2858525730047999886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_12
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 356
+        width: 117
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf133b693138ee80800000000000000
+      internalID: -8149209403045503038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_13
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 356
+        width: 102
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8256e6083c48bea80800000000000000
+      internalID: -8436503501740284632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_14
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 354
+        width: 108
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a295320b23c54eb0800000000000000
+      internalID: -4736164843622133080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_15
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 356
+        width: 101
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342d2067403871b80800000000000000
+      internalID: -8424120522790219197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_16
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 356
+        width: 96
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c113d443f1b1430800000000000000
+      internalID: 3754629023837264911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_17
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 359
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60759e2a1ed7a2390800000000000000
+      internalID: -7842317393057982714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_18
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 362
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16228de68993ad0d0800000000000000
+      internalID: -3397339642040147359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_19
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 359
+        width: 97
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80be354cbecb35fc0800000000000000
+      internalID: -3507251963994313976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 188
+        width: 130
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afc34a7f6f6ee5e0800000000000000
+      internalID: -1878441469983600734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 188
+        width: 115
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37b001f412b043e0800000000000000
+      internalID: -2071460025577982148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 188
+        width: 131
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0791ad5b0e47e0380800000000000000
+      internalID: -9003130096594577040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_23
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 191
+        width: 117
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223492e26442ec2b0800000000000000
+      internalID: -5562468605915217118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_24
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 199
+        width: 109
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829d12743846320c0800000000000000
+      internalID: -4601723879245620952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_25
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 196
+        width: 137
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f286ba0e992dd50800000000000000
+      internalID: 6760635180863991633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_26
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 188
+        width: 148
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ef7e9abe64852f0800000000000000
+      internalID: -983958540598641019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_27
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 188
+        width: 132
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fa3186efc0d4ec0800000000000000
+      internalID: -3581191841882329264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_28
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 184
+        width: 126
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beea937e40dd7cb00800000000000000
+      internalID: 848890067911552747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 132
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e7db771193efae0800000000000000
+      internalID: -1513709677563773305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_30
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 66
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9557ef93d939e9700800000000000000
+      internalID: 549038508077905241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_31
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 66
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6360141fe0970f6f0800000000000000
+      internalID: -652888840884648394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_32
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 66
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b9132b276d3af00800000000000000
+      internalID: 1126980119876967326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_33
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 60
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865b806b68d3e86a0800000000000000
+      internalID: -6445146367931665048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_34
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 66
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05248f66862c36760800000000000000
+      internalID: 7450011962260865616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_35
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 59
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720815435a537bbd0800000000000000
+      internalID: -2614562075001651161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_36
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 54
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f460c6d5f1289d00800000000000000
+      internalID: 979570258706719993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_37
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 57
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560eeeaa9e3a671c0800000000000000
+      internalID: -4506234153147113371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_38
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 55
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6a81490c8d93240800000000000000
+      internalID: 4772083601805715120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_39
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 57
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c504a65ab751ec190800000000000000
+      internalID: -7940385472207241124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_40
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 61
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bef6091640db88e0800000000000000
+      internalID: -1690028235661312330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10. Ruins pillars and columns_41
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 60
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f09038db03cc650800000000000000
+      internalID: 6254427573016137483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      10. Ruins pillars and columns_0: 1690713267927188794
+      10. Ruins pillars and columns_1: 8091940385377731601
+      10. Ruins pillars and columns_10: 6057173001261784764
+      10. Ruins pillars and columns_11: 2858525730047999886
+      10. Ruins pillars and columns_12: -8149209403045503038
+      10. Ruins pillars and columns_13: -8436503501740284632
+      10. Ruins pillars and columns_14: -4736164843622133080
+      10. Ruins pillars and columns_15: -8424120522790219197
+      10. Ruins pillars and columns_16: 3754629023837264911
+      10. Ruins pillars and columns_17: -7842317393057982714
+      10. Ruins pillars and columns_18: -3397339642040147359
+      10. Ruins pillars and columns_19: -3507251963994313976
+      10. Ruins pillars and columns_2: -3324938483908203714
+      10. Ruins pillars and columns_20: -1878441469983600734
+      10. Ruins pillars and columns_21: -2071460025577982148
+      10. Ruins pillars and columns_22: -9003130096594577040
+      10. Ruins pillars and columns_23: -5562468605915217118
+      10. Ruins pillars and columns_24: -4601723879245620952
+      10. Ruins pillars and columns_25: 6760635180863991633
+      10. Ruins pillars and columns_26: -983958540598641019
+      10. Ruins pillars and columns_27: -3581191841882329264
+      10. Ruins pillars and columns_28: 848890067911552747
+      10. Ruins pillars and columns_29: -1513709677563773305
+      10. Ruins pillars and columns_3: -3064615943394118654
+      10. Ruins pillars and columns_30: 549038508077905241
+      10. Ruins pillars and columns_31: -652888840884648394
+      10. Ruins pillars and columns_32: 1126980119876967326
+      10. Ruins pillars and columns_33: -6445146367931665048
+      10. Ruins pillars and columns_34: 7450011962260865616
+      10. Ruins pillars and columns_35: -2614562075001651161
+      10. Ruins pillars and columns_36: 979570258706719993
+      10. Ruins pillars and columns_37: -4506234153147113371
+      10. Ruins pillars and columns_38: 4772083601805715120
+      10. Ruins pillars and columns_39: -7940385472207241124
+      10. Ruins pillars and columns_4: 5538607224300412814
+      10. Ruins pillars and columns_40: -1690028235661312330
+      10. Ruins pillars and columns_41: 6254427573016137483
+      10. Ruins pillars and columns_5: -3603817428020708382
+      10. Ruins pillars and columns_6: -5307937668863464853
+      10. Ruins pillars and columns_7: 7259721915236693636
+      10. Ruins pillars and columns_8: 2574451000792743139
+      10. Ruins pillars and columns_9: 4145702734997499247
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

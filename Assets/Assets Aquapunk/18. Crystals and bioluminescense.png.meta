@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: 9fad3903d9075524dac541224f33959b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1238787729675616847
+    second: 18. Crystals and bioluminescense_0
+  - first:
+      213: 7020135467316727002
+    second: 18. Crystals and bioluminescense_1
+  - first:
+      213: 2374252023051814909
+    second: 18. Crystals and bioluminescense_2
+  - first:
+      213: -3573764048930005282
+    second: 18. Crystals and bioluminescense_3
+  - first:
+      213: 8333489244435373742
+    second: 18. Crystals and bioluminescense_4
+  - first:
+      213: -7357186904049090701
+    second: 18. Crystals and bioluminescense_5
+  - first:
+      213: 8697016099830178383
+    second: 18. Crystals and bioluminescense_6
+  - first:
+      213: 5027860964838989501
+    second: 18. Crystals and bioluminescense_7
+  - first:
+      213: -7473278296722639162
+    second: 18. Crystals and bioluminescense_8
+  - first:
+      213: 5893678789733746413
+    second: 18. Crystals and bioluminescense_9
+  - first:
+      213: 980487344893057524
+    second: 18. Crystals and bioluminescense_10
+  - first:
+      213: 510148800005509009
+    second: 18. Crystals and bioluminescense_11
+  - first:
+      213: 4605091352151177249
+    second: 18. Crystals and bioluminescense_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 18. Crystals and bioluminescense_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 962
+        width: 1402
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f428d6370ee013110800000000000000
+      internalID: 1238787729675616847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18. Crystals and bioluminescense_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 640
+        width: 236
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcc88463088c6160800000000000000
+      internalID: 7020135467316727002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18. Crystals and bioluminescense_2
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 640
+        width: 233
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df78149b2a903f020800000000000000
+      internalID: 2374252023051814909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18. Crystals and bioluminescense_3
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 640
+        width: 221
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede17783880776ec0800000000000000
+      internalID: -3573764048930005282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18. Crystals and bioluminescense_4
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 640
+        width: 227
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaedb1aa05086a370800000000000000
+      internalID: 8333489244435373742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18. Crystals and bioluminescense_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 362
+        width: 231
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f7ff5ad7506e990800000000000000
+      internalID: -7357186904049090701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18. Crystals and bioluminescense_6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 361
+        width: 199
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f422b34601202b870800000000000000
+      internalID: 8697016099830178383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18. Crystals and bioluminescense_7
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 361
+        width: 198
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbed745a8ec86c540800000000000000
+      internalID: 5027860964838989501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18. Crystals and bioluminescense_8
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 361
+        width: 216
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6f538fbf4994890800000000000000
+      internalID: -7473278296722639162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18. Crystals and bioluminescense_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 306
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6855a12ad8ac150800000000000000
+      internalID: 5893678789733746413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18. Crystals and bioluminescense_10
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 59
+        width: 222
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9dd1b9b046b9d00800000000000000
+      internalID: 980487344893057524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18. Crystals and bioluminescense_11
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 59
+        width: 211
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f8be671a9641700800000000000000
+      internalID: 510148800005509009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18. Crystals and bioluminescense_12
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 61
+        width: 217
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128b13b9f2298ef30800000000000000
+      internalID: 4605091352151177249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      18. Crystals and bioluminescense_0: 1238787729675616847
+      18. Crystals and bioluminescense_1: 7020135467316727002
+      18. Crystals and bioluminescense_10: 980487344893057524
+      18. Crystals and bioluminescense_11: 510148800005509009
+      18. Crystals and bioluminescense_12: 4605091352151177249
+      18. Crystals and bioluminescense_2: 2374252023051814909
+      18. Crystals and bioluminescense_3: -3573764048930005282
+      18. Crystals and bioluminescense_4: 8333489244435373742
+      18. Crystals and bioluminescense_5: -7357186904049090701
+      18. Crystals and bioluminescense_6: 8697016099830178383
+      18. Crystals and bioluminescense_7: 5027860964838989501
+      18. Crystals and bioluminescense_8: -7473278296722639162
+      18. Crystals and bioluminescense_9: 5893678789733746413
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

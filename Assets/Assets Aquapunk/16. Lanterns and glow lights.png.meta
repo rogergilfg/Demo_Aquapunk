@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: ce297eedec5271b4a803c3c3343b1608
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3764673577687636491
+    second: 16. Lanterns and glow lights_0
+  - first:
+      213: 4834109811031017354
+    second: 16. Lanterns and glow lights_1
+  - first:
+      213: -3182892814791634415
+    second: 16. Lanterns and glow lights_2
+  - first:
+      213: 6461040247807988519
+    second: 16. Lanterns and glow lights_3
+  - first:
+      213: 1074197647477550446
+    second: 16. Lanterns and glow lights_4
+  - first:
+      213: 3950625258687424206
+    second: 16. Lanterns and glow lights_5
+  - first:
+      213: -7281353728078448213
+    second: 16. Lanterns and glow lights_6
+  - first:
+      213: 1722470920067244695
+    second: 16. Lanterns and glow lights_7
+  - first:
+      213: 2037749216562335664
+    second: 16. Lanterns and glow lights_8
+  - first:
+      213: 917338774036858784
+    second: 16. Lanterns and glow lights_9
+  - first:
+      213: -1713553617172362644
+    second: 16. Lanterns and glow lights_10
+  - first:
+      213: 5441909308627214761
+    second: 16. Lanterns and glow lights_11
+  - first:
+      213: 2404955495186497840
+    second: 16. Lanterns and glow lights_12
+  - first:
+      213: -3432084751503713568
+    second: 16. Lanterns and glow lights_13
+  - first:
+      213: 1782462621587838524
+    second: 16. Lanterns and glow lights_14
+  - first:
+      213: -3969392104662844670
+    second: 16. Lanterns and glow lights_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 16. Lanterns and glow lights_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 579
+        width: 284
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ade5d3caece3430800000000000000
+      internalID: 3764673577687636491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16. Lanterns and glow lights_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 886
+        width: 1064
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a870cbbc245361340800000000000000
+      internalID: 4834109811031017354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16. Lanterns and glow lights_2
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 589
+        width: 283
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112933049d714d3d0800000000000000
+      internalID: -3182892814791634415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16. Lanterns and glow lights_3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 591
+        width: 106
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723d8129fd93aa950800000000000000
+      internalID: 6461040247807988519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16. Lanterns and glow lights_4
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 591
+        width: 95
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6da57ca11158ee00800000000000000
+      internalID: 1074197647477550446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16. Lanterns and glow lights_5
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 589
+        width: 133
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6efb0ddb073d630800000000000000
+      internalID: 3950625258687424206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16. Lanterns and glow lights_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 345
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9fae1dc5f63fa90800000000000000
+      internalID: -7281353728078448213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16. Lanterns and glow lights_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 351
+        width: 150
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7926c8efc2277e710800000000000000
+      internalID: 1722470920067244695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16. Lanterns and glow lights_8
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 346
+        width: 146
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf4782bd1a874c10800000000000000
+      internalID: 2037749216562335664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16. Lanterns and glow lights_9
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 346
+        width: 141
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7c82531ca0bbc00800000000000000
+      internalID: 917338774036858784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16. Lanterns and glow lights_10
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 343
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a0bd0601c3838e0800000000000000
+      internalID: -1713553617172362644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16. Lanterns and glow lights_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 291
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1ed980fab858b40800000000000000
+      internalID: 5441909308627214761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16. Lanterns and glow lights_12
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 78
+        width: 140
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0310737e74e106120800000000000000
+      internalID: 2404955495186497840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16. Lanterns and glow lights_13
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 78
+        width: 145
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea169b3a19ce50d0800000000000000
+      internalID: -3432084751503713568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16. Lanterns and glow lights_14
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 81
+        width: 140
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3697297f449cb810800000000000000
+      internalID: 1782462621587838524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16. Lanterns and glow lights_15
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 79
+        width: 145
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bb45b59e2e9e8c0800000000000000
+      internalID: -3969392104662844670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      16. Lanterns and glow lights_0: 3764673577687636491
+      16. Lanterns and glow lights_1: 4834109811031017354
+      16. Lanterns and glow lights_10: -1713553617172362644
+      16. Lanterns and glow lights_11: 5441909308627214761
+      16. Lanterns and glow lights_12: 2404955495186497840
+      16. Lanterns and glow lights_13: -3432084751503713568
+      16. Lanterns and glow lights_14: 1782462621587838524
+      16. Lanterns and glow lights_15: -3969392104662844670
+      16. Lanterns and glow lights_2: -3182892814791634415
+      16. Lanterns and glow lights_3: 6461040247807988519
+      16. Lanterns and glow lights_4: 1074197647477550446
+      16. Lanterns and glow lights_5: 3950625258687424206
+      16. Lanterns and glow lights_6: -7281353728078448213
+      16. Lanterns and glow lights_7: 1722470920067244695
+      16. Lanterns and glow lights_8: 2037749216562335664
+      16. Lanterns and glow lights_9: 917338774036858784
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

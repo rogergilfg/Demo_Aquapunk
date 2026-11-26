@@ -1,0 +1,899 @@
+fileFormatVersion: 2
+guid: 68f83f4bade21dd44837da97360c1362
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6688466608483328241
+    second: 13. Bridges and platforms_0
+  - first:
+      213: 4819472817206022768
+    second: 13. Bridges and platforms_1
+  - first:
+      213: -6344490298097669510
+    second: 13. Bridges and platforms_2
+  - first:
+      213: -2153453540530333172
+    second: 13. Bridges and platforms_3
+  - first:
+      213: 5885706191037019965
+    second: 13. Bridges and platforms_4
+  - first:
+      213: -5841540079304668291
+    second: 13. Bridges and platforms_5
+  - first:
+      213: 8543654506824127300
+    second: 13. Bridges and platforms_6
+  - first:
+      213: -7846642389886278909
+    second: 13. Bridges and platforms_7
+  - first:
+      213: 1116289852270919359
+    second: 13. Bridges and platforms_8
+  - first:
+      213: -4634882233756585310
+    second: 13. Bridges and platforms_9
+  - first:
+      213: 5972683131178062099
+    second: 13. Bridges and platforms_10
+  - first:
+      213: 6150526077402516869
+    second: 13. Bridges and platforms_11
+  - first:
+      213: -8087275721591003527
+    second: 13. Bridges and platforms_12
+  - first:
+      213: -8390267747600755110
+    second: 13. Bridges and platforms_13
+  - first:
+      213: -1128565657171568925
+    second: 13. Bridges and platforms_14
+  - first:
+      213: 8732394509246542127
+    second: 13. Bridges and platforms_15
+  - first:
+      213: 3125184809764139866
+    second: 13. Bridges and platforms_16
+  - first:
+      213: -3503091146052763993
+    second: 13. Bridges and platforms_17
+  - first:
+      213: -5072565703279369304
+    second: 13. Bridges and platforms_18
+  - first:
+      213: 5849342289826378866
+    second: 13. Bridges and platforms_19
+  - first:
+      213: -6487821965790015007
+    second: 13. Bridges and platforms_20
+  - first:
+      213: -1931132547764896759
+    second: 13. Bridges and platforms_21
+  - first:
+      213: 1647777849422211265
+    second: 13. Bridges and platforms_22
+  - first:
+      213: 909716525378373395
+    second: 13. Bridges and platforms_23
+  - first:
+      213: 1723635903477018015
+    second: 13. Bridges and platforms_24
+  - first:
+      213: 7639981584265370825
+    second: 13. Bridges and platforms_25
+  - first:
+      213: 4518416779119521318
+    second: 13. Bridges and platforms_26
+  - first:
+      213: 8182265749218788808
+    second: 13. Bridges and platforms_27
+  - first:
+      213: -9054362351373254948
+    second: 13. Bridges and platforms_28
+  - first:
+      213: -2433233878011528658
+    second: 13. Bridges and platforms_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 259
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f1a4d7e0bcd23a0800000000000000
+      internalID: -6688466608483328241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 804
+        width: 935
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072573a1ef432e240800000000000000
+      internalID: 4819472817206022768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_2
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 622
+        width: 330
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ae9fc30b7d3f7a0800000000000000
+      internalID: -6344490298097669510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 628
+        width: 215
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ad1641a656d12e0800000000000000
+      internalID: -2153453540530333172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 632
+        width: 179
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d373411d89a3ea150800000000000000
+      internalID: 5885706191037019965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_5
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 626
+        width: 271
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b86d76f3eaeeea0800000000000000
+      internalID: -5841540079304668291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_6
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 626
+        width: 284
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443daeaf188219670800000000000000
+      internalID: 8543654506824127300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 423
+        width: 190
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3036e47d1502b1390800000000000000
+      internalID: -7846642389886278909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 425
+        width: 187
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe3bfec4bbdd7f00800000000000000
+      internalID: 1116289852270919359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_9
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 422
+        width: 180
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a27b214a279dafb0800000000000000
+      internalID: -4634882233756585310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_10
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 428
+        width: 208
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31116d5c9ab33e250800000000000000
+      internalID: 5972683131178062099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_11
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 426
+        width: 305
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d8a5961ee0b5550800000000000000
+      internalID: 6150526077402516869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_12
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 410
+        width: 224
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9766de5549934cf80800000000000000
+      internalID: -8087275721591003527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 211
+        width: 186
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5617d5efe7cf8b80800000000000000
+      internalID: -8390267747600755110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_14
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 198
+        width: 188
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e65592a3878650f0800000000000000
+      internalID: -1128565657171568925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_15
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 199
+        width: 173
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21363a3a82bf2970800000000000000
+      internalID: 8732394509246542127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_16
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 201
+        width: 180
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53307bc603ee5b20800000000000000
+      internalID: 3125184809764139866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_17
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 199
+        width: 144
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae75bfa925826fc0800000000000000
+      internalID: -3503091146052763993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_18
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 201
+        width: 300
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a324345e50aa99b0800000000000000
+      internalID: -5072565703279369304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 252
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27475ca42d90d2150800000000000000
+      internalID: 5849342289826378866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_20
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 44
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e11c1bcb40a6f5a0800000000000000
+      internalID: -6487821965790015007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_21
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 43
+        width: 137
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c374ced2d3335e0800000000000000
+      internalID: -1931132547764896759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_22
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 46
+        width: 144
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8619749351ed610800000000000000
+      internalID: 1647777849422211265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_23
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 48
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3170b752c56ff9c00800000000000000
+      internalID: 909716525378373395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_24
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 46
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d6bd4d8b59be710800000000000000
+      internalID: 1723635903477018015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_25
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 48
+        width: 61
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccd9a4c5caa60a60800000000000000
+      internalID: 7639981584265370825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_26
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 48
+        width: 50
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e659afe14a4be30800000000000000
+      internalID: 4518416779119521318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_27
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 48
+        width: 48
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c50800f85f3d8170800000000000000
+      internalID: 8182265749218788808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_28
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 48
+        width: 52
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdef9bad961785280800000000000000
+      internalID: -9054362351373254948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13. Bridges and platforms_29
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 48
+        width: 44
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a3da50eaa6b3ed0800000000000000
+      internalID: -2433233878011528658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      13. Bridges and platforms_0: -6688466608483328241
+      13. Bridges and platforms_1: 4819472817206022768
+      13. Bridges and platforms_10: 5972683131178062099
+      13. Bridges and platforms_11: 6150526077402516869
+      13. Bridges and platforms_12: -8087275721591003527
+      13. Bridges and platforms_13: -8390267747600755110
+      13. Bridges and platforms_14: -1128565657171568925
+      13. Bridges and platforms_15: 8732394509246542127
+      13. Bridges and platforms_16: 3125184809764139866
+      13. Bridges and platforms_17: -3503091146052763993
+      13. Bridges and platforms_18: -5072565703279369304
+      13. Bridges and platforms_19: 5849342289826378866
+      13. Bridges and platforms_2: -6344490298097669510
+      13. Bridges and platforms_20: -6487821965790015007
+      13. Bridges and platforms_21: -1931132547764896759
+      13. Bridges and platforms_22: 1647777849422211265
+      13. Bridges and platforms_23: 909716525378373395
+      13. Bridges and platforms_24: 1723635903477018015
+      13. Bridges and platforms_25: 7639981584265370825
+      13. Bridges and platforms_26: 4518416779119521318
+      13. Bridges and platforms_27: 8182265749218788808
+      13. Bridges and platforms_28: -9054362351373254948
+      13. Bridges and platforms_29: -2433233878011528658
+      13. Bridges and platforms_3: -2153453540530333172
+      13. Bridges and platforms_4: 5885706191037019965
+      13. Bridges and platforms_5: -5841540079304668291
+      13. Bridges and platforms_6: 8543654506824127300
+      13. Bridges and platforms_7: -7846642389886278909
+      13. Bridges and platforms_8: 1116289852270919359
+      13. Bridges and platforms_9: -4634882233756585310
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

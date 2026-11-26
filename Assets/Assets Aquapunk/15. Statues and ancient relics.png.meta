@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: 8d33b0b6ee9526a499d06f19fe48b545
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6243781805369367281
+    second: 15. Statues and ancient relics_0
+  - first:
+      213: 6060693561684310739
+    second: 15. Statues and ancient relics_1
+  - first:
+      213: -3945120252435413972
+    second: 15. Statues and ancient relics_2
+  - first:
+      213: 7909757511021789306
+    second: 15. Statues and ancient relics_3
+  - first:
+      213: 5721699521572924128
+    second: 15. Statues and ancient relics_4
+  - first:
+      213: 7949557925049016336
+    second: 15. Statues and ancient relics_5
+  - first:
+      213: -2644903679159153226
+    second: 15. Statues and ancient relics_6
+  - first:
+      213: 5317976864021756116
+    second: 15. Statues and ancient relics_7
+  - first:
+      213: 1858670082679113093
+    second: 15. Statues and ancient relics_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 15. Statues and ancient relics_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 330
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa9614987e56a650800000000000000
+      internalID: 6243781805369367281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15. Statues and ancient relics_1
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 786
+        width: 1363
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dab0b4fea8eb1450800000000000000
+      internalID: 6060693561684310739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15. Statues and ancient relics_2
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 427
+        width: 208
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c244365580e1049c0800000000000000
+      internalID: -3945120252435413972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15. Statues and ancient relics_3
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 431
+        width: 229
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a708eef6c8a15cd60800000000000000
+      internalID: 7909757511021789306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15. Statues and ancient relics_4
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 426
+        width: 240
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea60e6666f876f40800000000000000
+      internalID: 5721699521572924128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15. Statues and ancient relics_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 369
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01020f370d0825e60800000000000000
+      internalID: 7949557925049016336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15. Statues and ancient relics_6
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 77
+        width: 203
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd489afd1a6b4bd0800000000000000
+      internalID: -2644903679159153226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15. Statues and ancient relics_7
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 72
+        width: 230
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d833cf28cf3dc940800000000000000
+      internalID: 5317976864021756116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15. Statues and ancient relics_8
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 72
+        width: 215
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5850cb0b7925bc910800000000000000
+      internalID: 1858670082679113093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      15. Statues and ancient relics_0: 6243781805369367281
+      15. Statues and ancient relics_1: 6060693561684310739
+      15. Statues and ancient relics_2: -3945120252435413972
+      15. Statues and ancient relics_3: 7909757511021789306
+      15. Statues and ancient relics_4: 5721699521572924128
+      15. Statues and ancient relics_5: 7949557925049016336
+      15. Statues and ancient relics_6: -2644903679159153226
+      15. Statues and ancient relics_7: 5317976864021756116
+      15. Statues and ancient relics_8: 1858670082679113093
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

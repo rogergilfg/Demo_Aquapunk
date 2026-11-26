@@ -1,0 +1,1029 @@
+fileFormatVersion: 2
+guid: 31868c99b88e89044a7373623d28aa3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4571144290114907952
+    second: 6. Underwater plants_0
+  - first:
+      213: 1391892751282965142
+    second: 6. Underwater plants_1
+  - first:
+      213: 3160017965051657125
+    second: 6. Underwater plants_2
+  - first:
+      213: -178753151166040160
+    second: 6. Underwater plants_3
+  - first:
+      213: 3208695680719871100
+    second: 6. Underwater plants_4
+  - first:
+      213: -723236403768031738
+    second: 6. Underwater plants_5
+  - first:
+      213: 2620606867856205600
+    second: 6. Underwater plants_6
+  - first:
+      213: -4886335789901854192
+    second: 6. Underwater plants_7
+  - first:
+      213: -2024671882219489237
+    second: 6. Underwater plants_8
+  - first:
+      213: -3059983727048039796
+    second: 6. Underwater plants_9
+  - first:
+      213: -308036306177094979
+    second: 6. Underwater plants_10
+  - first:
+      213: -2641389369584557976
+    second: 6. Underwater plants_11
+  - first:
+      213: 1828183082152002088
+    second: 6. Underwater plants_12
+  - first:
+      213: -1319233268276498707
+    second: 6. Underwater plants_13
+  - first:
+      213: 655005609711493691
+    second: 6. Underwater plants_14
+  - first:
+      213: 5719400563447409990
+    second: 6. Underwater plants_15
+  - first:
+      213: -847895541926541450
+    second: 6. Underwater plants_16
+  - first:
+      213: -8911645839076483960
+    second: 6. Underwater plants_17
+  - first:
+      213: -2839481092915253026
+    second: 6. Underwater plants_18
+  - first:
+      213: 4088663699521046164
+    second: 6. Underwater plants_19
+  - first:
+      213: 6725527004995339792
+    second: 6. Underwater plants_20
+  - first:
+      213: -1494432105689964837
+    second: 6. Underwater plants_21
+  - first:
+      213: -329719050765457702
+    second: 6. Underwater plants_22
+  - first:
+      213: -5553308483070066165
+    second: 6. Underwater plants_23
+  - first:
+      213: -5177369135927670862
+    second: 6. Underwater plants_24
+  - first:
+      213: -1018643326257433351
+    second: 6. Underwater plants_25
+  - first:
+      213: 6483030185996245454
+    second: 6. Underwater plants_26
+  - first:
+      213: -7696408219449173831
+    second: 6. Underwater plants_27
+  - first:
+      213: -4455721285172166250
+    second: 6. Underwater plants_28
+  - first:
+      213: 220508921039039681
+    second: 6. Underwater plants_29
+  - first:
+      213: 8869150650572020816
+    second: 6. Underwater plants_30
+  - first:
+      213: -1037399544651086781
+    second: 6. Underwater plants_31
+  - first:
+      213: -2902902540544819483
+    second: 6. Underwater plants_32
+  - first:
+      213: -6541703065811883238
+    second: 6. Underwater plants_33
+  - first:
+      213: 692734298376140971
+    second: 6. Underwater plants_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 6. Underwater plants_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 161
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d055a2bc780090c0800000000000000
+      internalID: -4571144290114907952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_1
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 779
+        width: 895
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a89ad251ff05310800000000000000
+      internalID: 1391892751282965142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_2
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 505
+        width: 210
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abb1c2c893aadb20800000000000000
+      internalID: 3160017965051657125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 500
+        width: 92
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a73442c4f0f48df0800000000000000
+      internalID: -178753151166040160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_4
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 500
+        width: 93
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c53a1a8b3978c20800000000000000
+      internalID: 3208695680719871100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_5
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 500
+        width: 138
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60686c8925c86f5f0800000000000000
+      internalID: -723236403768031738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_6
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 499
+        width: 97
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027a48ecf044e5420800000000000000
+      internalID: 2620606867856205600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_7
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 502
+        width: 102
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a4f9dec7f303cb0800000000000000
+      internalID: -4886335789901854192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_8
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 505
+        width: 117
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28f59976abe6e3e0800000000000000
+      internalID: -2024671882219489237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_9
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 500
+        width: 128
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8263d24301c885d0800000000000000
+      internalID: -3059983727048039796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_10
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 506
+        width: 107
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba04609c92a9bbf0800000000000000
+      internalID: -308036306177094979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_11
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 504
+        width: 100
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8606b60fc56e75bd0800000000000000
+      internalID: -2641389369584557976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 247
+        width: 101
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8228c0cb3d20f5910800000000000000
+      internalID: 1828183082152002088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 244
+        width: 104
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee6084055421bde0800000000000000
+      internalID: -1319233268276498707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_14
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 243
+        width: 102
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32edb4b12c071900800000000000000
+      internalID: 655005609711493691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_15
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 247
+        width: 111
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64da37082846f5f40800000000000000
+      internalID: 5719400563447409990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_16
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 244
+        width: 135
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677c4d83f7bab34f0800000000000000
+      internalID: -847895541926541450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_17
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 244
+        width: 146
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c12c54359735480800000000000000
+      internalID: -8911645839076483960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_18
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 247
+        width: 143
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0395e7df22898d0800000000000000
+      internalID: -2839481092915253026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_19
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 243
+        width: 128
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4968cf7d8f9ddb830800000000000000
+      internalID: 4088663699521046164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_20
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 243
+        width: 129
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0164b0c7d2fd55d50800000000000000
+      internalID: 6725527004995339792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_21
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 244
+        width: 108
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde196feae5b24be0800000000000000
+      internalID: -1494432105689964837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 142
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6227f254a9c6bf0800000000000000
+      internalID: -329719050765457702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_23
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 57
+        width: 76
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02027a7b5faee2b0800000000000000
+      internalID: -5553308483070066165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_24
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 57
+        width: 74
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7c5f5a33a4628b0800000000000000
+      internalID: -5177369135927670862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_25
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 57
+        width: 76
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f47a91ba4d0dd1f0800000000000000
+      internalID: -1018643326257433351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_26
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 57
+        width: 80
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9d0780b9958f950800000000000000
+      internalID: 6483030185996245454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_27
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 57
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8d551708dd03590800000000000000
+      internalID: -7696408219449173831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_28
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 58
+        width: 104
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6918a2b39191a22c0800000000000000
+      internalID: -4455721285172166250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_29
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 55
+        width: 101
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc265402b76f0300800000000000000
+      internalID: 220508921039039681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_30
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 57
+        width: 91
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c15c2a68d851b70800000000000000
+      internalID: 8869150650572020816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_31
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 55
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3448bea4c9a6a91f0800000000000000
+      internalID: -1037399544651086781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_32
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 55
+        width: 103
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee3f350581d6b7d0800000000000000
+      internalID: -2902902540544819483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_33
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 57
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1be23898b33735a0800000000000000
+      internalID: -6541703065811883238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. Underwater plants_34
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 57
+        width: 93
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba870729c261d9900800000000000000
+      internalID: 692734298376140971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      6. Underwater plants_0: -4571144290114907952
+      6. Underwater plants_1: 1391892751282965142
+      6. Underwater plants_10: -308036306177094979
+      6. Underwater plants_11: -2641389369584557976
+      6. Underwater plants_12: 1828183082152002088
+      6. Underwater plants_13: -1319233268276498707
+      6. Underwater plants_14: 655005609711493691
+      6. Underwater plants_15: 5719400563447409990
+      6. Underwater plants_16: -847895541926541450
+      6. Underwater plants_17: -8911645839076483960
+      6. Underwater plants_18: -2839481092915253026
+      6. Underwater plants_19: 4088663699521046164
+      6. Underwater plants_2: 3160017965051657125
+      6. Underwater plants_20: 6725527004995339792
+      6. Underwater plants_21: -1494432105689964837
+      6. Underwater plants_22: -329719050765457702
+      6. Underwater plants_23: -5553308483070066165
+      6. Underwater plants_24: -5177369135927670862
+      6. Underwater plants_25: -1018643326257433351
+      6. Underwater plants_26: 6483030185996245454
+      6. Underwater plants_27: -7696408219449173831
+      6. Underwater plants_28: -4455721285172166250
+      6. Underwater plants_29: 220508921039039681
+      6. Underwater plants_3: -178753151166040160
+      6. Underwater plants_30: 8869150650572020816
+      6. Underwater plants_31: -1037399544651086781
+      6. Underwater plants_32: -2902902540544819483
+      6. Underwater plants_33: -6541703065811883238
+      6. Underwater plants_34: 692734298376140971
+      6. Underwater plants_4: 3208695680719871100
+      6. Underwater plants_5: -723236403768031738
+      6. Underwater plants_6: 2620606867856205600
+      6. Underwater plants_7: -4886335789901854192
+      6. Underwater plants_8: -2024671882219489237
+      6. Underwater plants_9: -3059983727048039796
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

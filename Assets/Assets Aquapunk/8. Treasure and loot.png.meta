@@ -1,0 +1,873 @@
+fileFormatVersion: 2
+guid: 907f0672d888b534d968f195ffbfa7b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8036875438711594243
+    second: 8. Treasure and loot_0
+  - first:
+      213: -7306655466400887888
+    second: 8. Treasure and loot_1
+  - first:
+      213: -3180075426513831976
+    second: 8. Treasure and loot_2
+  - first:
+      213: -7360179440846551808
+    second: 8. Treasure and loot_3
+  - first:
+      213: -7229287481621502532
+    second: 8. Treasure and loot_4
+  - first:
+      213: -7547106179334461993
+    second: 8. Treasure and loot_5
+  - first:
+      213: 6388956475673777759
+    second: 8. Treasure and loot_6
+  - first:
+      213: 5149116177047123559
+    second: 8. Treasure and loot_7
+  - first:
+      213: 8672841512979004153
+    second: 8. Treasure and loot_8
+  - first:
+      213: 4474274669405351474
+    second: 8. Treasure and loot_9
+  - first:
+      213: 1639956507509657129
+    second: 8. Treasure and loot_10
+  - first:
+      213: -4950061982126293494
+    second: 8. Treasure and loot_11
+  - first:
+      213: 4280432298438387043
+    second: 8. Treasure and loot_12
+  - first:
+      213: 2466891158975547643
+    second: 8. Treasure and loot_13
+  - first:
+      213: 2432225454827660202
+    second: 8. Treasure and loot_14
+  - first:
+      213: 4037156629794900625
+    second: 8. Treasure and loot_15
+  - first:
+      213: -7628274162518273170
+    second: 8. Treasure and loot_16
+  - first:
+      213: -8623248564436436505
+    second: 8. Treasure and loot_17
+  - first:
+      213: -6165609314344076446
+    second: 8. Treasure and loot_18
+  - first:
+      213: -8153095289550131612
+    second: 8. Treasure and loot_19
+  - first:
+      213: 4306469543365971829
+    second: 8. Treasure and loot_20
+  - first:
+      213: 6532531923525320480
+    second: 8. Treasure and loot_21
+  - first:
+      213: -2003678686309647851
+    second: 8. Treasure and loot_22
+  - first:
+      213: -1150500874235300880
+    second: 8. Treasure and loot_23
+  - first:
+      213: 6508332468411092014
+    second: 8. Treasure and loot_24
+  - first:
+      213: -4232771342775050287
+    second: 8. Treasure and loot_25
+  - first:
+      213: 8204589260295863804
+    second: 8. Treasure and loot_26
+  - first:
+      213: 3377904813827797382
+    second: 8. Treasure and loot_27
+  - first:
+      213: 7632704011009863735
+    second: 8. Treasure and loot_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 8. Treasure and loot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 549
+        width: 292
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d577c51a7b88f60800000000000000
+      internalID: 8036875438711594243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 789
+        width: 876
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb420dc09b899a90800000000000000
+      internalID: -7306655466400887888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_2
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 541
+        width: 326
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7b1b39f3a1ed3d0800000000000000
+      internalID: -3180075426513831976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 549
+        width: 191
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00545316bc36bd990800000000000000
+      internalID: -7360179440846551808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_4
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 549
+        width: 186
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5a5ce76596cab90800000000000000
+      internalID: -7229287481621502532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_5
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 549
+        width: 186
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d52d9a8aea434790800000000000000
+      internalID: -7547106179334461993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_6
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 547
+        width: 207
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5697f180122aa850800000000000000
+      internalID: 6388956475673777759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 381
+        width: 127
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7667c10c1e5557740800000000000000
+      internalID: 5149116177047123559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 372
+        width: 172
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faff56c76f1c5870800000000000000
+      internalID: 8672841512979004153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_9
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 368
+        width: 205
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e2f692b11d71e30800000000000000
+      internalID: 4474274669405351474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_10
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 380
+        width: 125
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e043531cb42c610800000000000000
+      internalID: 1639956507509657129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_11
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 379
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e32339ad8dd4bb0800000000000000
+      internalID: -4950061982126293494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_12
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 372
+        width: 160
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36567892f76276b30800000000000000
+      internalID: 4280432298438387043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_13
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 363
+        width: 227
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf80a4e50782c3220800000000000000
+      internalID: 2466891158975547643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_14
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 216
+        width: 99
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa36aa82a2001c120800000000000000
+      internalID: 2432225454827660202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 207
+        width: 164
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ac985a09cd60830800000000000000
+      internalID: 4037156629794900625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_16
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 216
+        width: 114
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63dec5c01de22690800000000000000
+      internalID: -7628274162518273170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_17
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 206
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e97eda5e11145880800000000000000
+      internalID: -8623248564436436505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_18
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 216
+        width: 201
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b7ea2defa5f6aa0800000000000000
+      internalID: -6165609314344076446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_19
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 208
+        width: 93
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e2476f7036ade80800000000000000
+      internalID: -8153095289550131612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_20
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 206
+        width: 147
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f0e58ab37a3cb30800000000000000
+      internalID: 4306469543365971829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 207
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f30a17c2738aa50800000000000000
+      internalID: 6532531923525320480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_22
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 78
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51afd7ac9d08134e0800000000000000
+      internalID: -2003678686309647851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_23
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 78
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3bd6dec899800f0800000000000000
+      internalID: -1150500874235300880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_24
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 78
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cc8cbb5ed325a50800000000000000
+      internalID: 6508332468411092014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_25
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 78
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df9072d3ec2245c0800000000000000
+      internalID: -4232771342775050287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_26
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 79
+        width: 80
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd7be3667e8cd170800000000000000
+      internalID: 8204589260295863804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_27
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 67
+        width: 97
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681b941088ab0ee20800000000000000
+      internalID: 3377904813827797382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8. Treasure and loot_28
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 61
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73031f3bbdfcce960800000000000000
+      internalID: 7632704011009863735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      8. Treasure and loot_0: 8036875438711594243
+      8. Treasure and loot_1: -7306655466400887888
+      8. Treasure and loot_10: 1639956507509657129
+      8. Treasure and loot_11: -4950061982126293494
+      8. Treasure and loot_12: 4280432298438387043
+      8. Treasure and loot_13: 2466891158975547643
+      8. Treasure and loot_14: 2432225454827660202
+      8. Treasure and loot_15: 4037156629794900625
+      8. Treasure and loot_16: -7628274162518273170
+      8. Treasure and loot_17: -8623248564436436505
+      8. Treasure and loot_18: -6165609314344076446
+      8. Treasure and loot_19: -8153095289550131612
+      8. Treasure and loot_2: -3180075426513831976
+      8. Treasure and loot_20: 4306469543365971829
+      8. Treasure and loot_21: 6532531923525320480
+      8. Treasure and loot_22: -2003678686309647851
+      8. Treasure and loot_23: -1150500874235300880
+      8. Treasure and loot_24: 6508332468411092014
+      8. Treasure and loot_25: -4232771342775050287
+      8. Treasure and loot_26: 8204589260295863804
+      8. Treasure and loot_27: 3377904813827797382
+      8. Treasure and loot_28: 7632704011009863735
+      8. Treasure and loot_3: -7360179440846551808
+      8. Treasure and loot_4: -7229287481621502532
+      8. Treasure and loot_5: -7547106179334461993
+      8. Treasure and loot_6: 6388956475673777759
+      8. Treasure and loot_7: 5149116177047123559
+      8. Treasure and loot_8: 8672841512979004153
+      8. Treasure and loot_9: 4474274669405351474
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

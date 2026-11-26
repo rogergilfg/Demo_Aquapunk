@@ -1,0 +1,1575 @@
+fileFormatVersion: 2
+guid: d21f9e6cc3cbe83429c86e87a0d2afe7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7679033499645016737
+    second: 9. Sunken ruins walls_0
+  - first:
+      213: -8669090292421190331
+    second: 9. Sunken ruins walls_1
+  - first:
+      213: 1552595502477089830
+    second: 9. Sunken ruins walls_2
+  - first:
+      213: 1327510515421137356
+    second: 9. Sunken ruins walls_3
+  - first:
+      213: -4197641930300947401
+    second: 9. Sunken ruins walls_4
+  - first:
+      213: 8517672906167694098
+    second: 9. Sunken ruins walls_5
+  - first:
+      213: 8063539990982189465
+    second: 9. Sunken ruins walls_6
+  - first:
+      213: 4837667082562572655
+    second: 9. Sunken ruins walls_7
+  - first:
+      213: -7063487979954408924
+    second: 9. Sunken ruins walls_8
+  - first:
+      213: -7011803859467819502
+    second: 9. Sunken ruins walls_9
+  - first:
+      213: -7679882711887732691
+    second: 9. Sunken ruins walls_10
+  - first:
+      213: 1751782561691157669
+    second: 9. Sunken ruins walls_11
+  - first:
+      213: 4161699158521353739
+    second: 9. Sunken ruins walls_12
+  - first:
+      213: -6091837248690220683
+    second: 9. Sunken ruins walls_13
+  - first:
+      213: 7430911884366303843
+    second: 9. Sunken ruins walls_14
+  - first:
+      213: 6770545639886275466
+    second: 9. Sunken ruins walls_15
+  - first:
+      213: 4996442508346298673
+    second: 9. Sunken ruins walls_16
+  - first:
+      213: 4392120593669198244
+    second: 9. Sunken ruins walls_17
+  - first:
+      213: 8842416673787870199
+    second: 9. Sunken ruins walls_18
+  - first:
+      213: -7457419115934606729
+    second: 9. Sunken ruins walls_19
+  - first:
+      213: 4422220430653157585
+    second: 9. Sunken ruins walls_20
+  - first:
+      213: 4173108409025701002
+    second: 9. Sunken ruins walls_21
+  - first:
+      213: 5327919144383627242
+    second: 9. Sunken ruins walls_22
+  - first:
+      213: 5863508337727665874
+    second: 9. Sunken ruins walls_23
+  - first:
+      213: 6378416301828863213
+    second: 9. Sunken ruins walls_24
+  - first:
+      213: -3758265765790377742
+    second: 9. Sunken ruins walls_25
+  - first:
+      213: 1539810858872932700
+    second: 9. Sunken ruins walls_26
+  - first:
+      213: -3183900514695775203
+    second: 9. Sunken ruins walls_27
+  - first:
+      213: 5636457271297038904
+    second: 9. Sunken ruins walls_28
+  - first:
+      213: -6818276771199938393
+    second: 9. Sunken ruins walls_29
+  - first:
+      213: 2774569663548224328
+    second: 9. Sunken ruins walls_30
+  - first:
+      213: -9154707223965251268
+    second: 9. Sunken ruins walls_31
+  - first:
+      213: 488164999597757715
+    second: 9. Sunken ruins walls_32
+  - first:
+      213: 6037674578223706373
+    second: 9. Sunken ruins walls_33
+  - first:
+      213: -3548511223585081097
+    second: 9. Sunken ruins walls_34
+  - first:
+      213: -3867418580539711139
+    second: 9. Sunken ruins walls_35
+  - first:
+      213: -7218644419320613339
+    second: 9. Sunken ruins walls_36
+  - first:
+      213: 7797669380217041960
+    second: 9. Sunken ruins walls_37
+  - first:
+      213: -7433182919512464803
+    second: 9. Sunken ruins walls_38
+  - first:
+      213: 4166876210946465728
+    second: 9. Sunken ruins walls_39
+  - first:
+      213: 6654997574962313132
+    second: 9. Sunken ruins walls_40
+  - first:
+      213: -4601959814389370738
+    second: 9. Sunken ruins walls_41
+  - first:
+      213: 298954610742013971
+    second: 9. Sunken ruins walls_42
+  - first:
+      213: -7883297767086202029
+    second: 9. Sunken ruins walls_43
+  - first:
+      213: -3344559342311735418
+    second: 9. Sunken ruins walls_44
+  - first:
+      213: -9212858714862202888
+    second: 9. Sunken ruins walls_45
+  - first:
+      213: -7253601540511050988
+    second: 9. Sunken ruins walls_46
+  - first:
+      213: -6598235456482372451
+    second: 9. Sunken ruins walls_47
+  - first:
+      213: 1742106554792428206
+    second: 9. Sunken ruins walls_48
+  - first:
+      213: 740028556375410326
+    second: 9. Sunken ruins walls_49
+  - first:
+      213: -3417395647283433730
+    second: 9. Sunken ruins walls_50
+  - first:
+      213: -2430477139675384487
+    second: 9. Sunken ruins walls_51
+  - first:
+      213: 4735664260852145168
+    second: 9. Sunken ruins walls_52
+  - first:
+      213: -2846699091737012386
+    second: 9. Sunken ruins walls_53
+  - first:
+      213: -8878247537481993276
+    second: 9. Sunken ruins walls_54
+  - first:
+      213: -5507976126717410421
+    second: 9. Sunken ruins walls_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 669
+        width: 258
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f558553a7b79e6590800000000000000
+      internalID: -7679033499645016737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_1
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 819
+        width: 864
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d92725f4431b780800000000000000
+      internalID: -8669090292421190331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_2
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 669
+        width: 219
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c140d226deb8510800000000000000
+      internalID: 1552595502477089830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 669
+        width: 173
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9c543c7c34c6210800000000000000
+      internalID: 1327510515421137356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_4
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 669
+        width: 169
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734802a87eafeb5c0800000000000000
+      internalID: -4197641930300947401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_5
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 669
+        width: 157
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213381d216ad43670800000000000000
+      internalID: 8517672906167694098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_6
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 667
+        width: 178
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99166aa36e277ef60800000000000000
+      internalID: 8063539990982189465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_7
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 668
+        width: 193
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f611ebd9498d22340800000000000000
+      internalID: 4837667082562572655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_8
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 669
+        width: 112
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422739f2b1379fd90800000000000000
+      internalID: -7063487979954408924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 517
+        width: 163
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21625b93a8111be90800000000000000
+      internalID: -7011803859467819502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 517
+        width: 184
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20a4410d539b6590800000000000000
+      internalID: -7679882711887732691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 518
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4435165f49f4810800000000000000
+      internalID: 1751782561691157669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_12
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 521
+        width: 149
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0615b5c55351c930800000000000000
+      internalID: 4161699158521353739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_13
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 517
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571935a5c42757ba0800000000000000
+      internalID: -6091837248690220683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_14
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 517
+        width: 107
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362d1e8fcf6ef1760800000000000000
+      internalID: 7430911884366303843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_15
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 517
+        width: 113
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83cdf8336fc5fd50800000000000000
+      internalID: 6770545639886275466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_16
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 517
+        width: 138
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13194a23dfde65540800000000000000
+      internalID: 4996442508346298673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_17
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 520
+        width: 200
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a19454d862f3fc30800000000000000
+      internalID: 4392120593669198244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 336
+        width: 81
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbfd1d9d1396ba70800000000000000
+      internalID: 8842416673787870199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_19
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 336
+        width: 81
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a928d33dce18890800000000000000
+      internalID: -7457419115934606729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_20
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 336
+        width: 95
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d07e8f3d02ee5d30800000000000000
+      internalID: 4422220430653157585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_21
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 336
+        width: 74
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a842c29ecfbd9e930800000000000000
+      internalID: 4173108409025701002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_22
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 334
+        width: 70
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef3df8bb3290f940800000000000000
+      internalID: 5327919144383627242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_23
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 336
+        width: 76
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d67cc754cd5f5150800000000000000
+      internalID: 5863508337727665874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_24
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 336
+        width: 54
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4f11c05dfa48850800000000000000
+      internalID: 6378416301828863213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_25
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 336
+        width: 63
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f89d8ab235f7dbc0800000000000000
+      internalID: -3758265765790377742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_26
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 336
+        width: 73
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59096061d18e5510800000000000000
+      internalID: 1539810858872932700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_27
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 334
+        width: 75
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cff55d95380d3d0800000000000000
+      internalID: -3183900514695775203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_28
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 336
+        width: 74
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ad3576608b83e40800000000000000
+      internalID: 5636457271297038904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_29
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 334
+        width: 65
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a09450c66d9061a0800000000000000
+      internalID: -6818276771199938393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_30
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 336
+        width: 136
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843fd50a860418620800000000000000
+      internalID: 2774569663548224328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 198
+        width: 118
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3949d49842f3f080800000000000000
+      internalID: -9154707223965251268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_32
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 198
+        width: 121
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3159dc01b7f46c600800000000000000
+      internalID: 488164999597757715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_33
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 199
+        width: 138
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5013e683a012ac350800000000000000
+      internalID: 6037674578223706373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_34
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 199
+        width: 147
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f879bcc7d721cec0800000000000000
+      internalID: -3548511223585081097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_35
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 201
+        width: 161
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d516f2d9a4b245ac0800000000000000
+      internalID: -3867418580539711139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_36
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 200
+        width: 160
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526f98a852932db90800000000000000
+      internalID: -7218644419320613339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_37
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 194
+        width: 161
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824f6cbccf2e63c60800000000000000
+      internalID: 7797669380217041960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_38
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 209
+        width: 142
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5265f3748708d890800000000000000
+      internalID: -7433182919512464803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_39
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 205
+        width: 85
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf5d7836d7b3d930800000000000000
+      internalID: 4166876210946465728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 99
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7f6b4e80d4b5c50800000000000000
+      internalID: 6654997574962313132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 83
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80f2b85eed8220c0800000000000000
+      internalID: -4601959814389370738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_42
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 83
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3103e3172a9162400800000000000000
+      internalID: 298954610742013971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_43
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 83
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3536236c276e89290800000000000000
+      internalID: -7883297767086202029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_44
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 83
+        width: 47
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f7b479ffcb591d0800000000000000
+      internalID: -3344559342311735418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_45
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 83
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffc6c68fc9552080800000000000000
+      internalID: -9212858714862202888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_46
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 83
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413dc9384d7065b90800000000000000
+      internalID: -7253601540511050988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_47
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 83
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d941bffafcb5e64a0800000000000000
+      internalID: -6598235456482372451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_48
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 83
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea248477ea43d2810800000000000000
+      internalID: 1742106554792428206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_49
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 84
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696c66a1d0c154a00800000000000000
+      internalID: 740028556375410326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_50
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 84
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe64b2d3c8f290d0800000000000000
+      internalID: -3417395647283433730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_51
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 84
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955f0fe2be5354ed0800000000000000
+      internalID: -2430477139675384487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_52
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 84
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cda9bfd8578b140800000000000000
+      internalID: 4735664260852145168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_53
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 83
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57969e224e7e78d0800000000000000
+      internalID: -2846699091737012386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_54
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 82
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3366457e02ac480800000000000000
+      internalID: -8878247537481993276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9. Sunken ruins walls_55
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 83
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b834daf25ecbf83b0800000000000000
+      internalID: -5507976126717410421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      9. Sunken ruins walls_0: -7679033499645016737
+      9. Sunken ruins walls_1: -8669090292421190331
+      9. Sunken ruins walls_10: -7679882711887732691
+      9. Sunken ruins walls_11: 1751782561691157669
+      9. Sunken ruins walls_12: 4161699158521353739
+      9. Sunken ruins walls_13: -6091837248690220683
+      9. Sunken ruins walls_14: 7430911884366303843
+      9. Sunken ruins walls_15: 6770545639886275466
+      9. Sunken ruins walls_16: 4996442508346298673
+      9. Sunken ruins walls_17: 4392120593669198244
+      9. Sunken ruins walls_18: 8842416673787870199
+      9. Sunken ruins walls_19: -7457419115934606729
+      9. Sunken ruins walls_2: 1552595502477089830
+      9. Sunken ruins walls_20: 4422220430653157585
+      9. Sunken ruins walls_21: 4173108409025701002
+      9. Sunken ruins walls_22: 5327919144383627242
+      9. Sunken ruins walls_23: 5863508337727665874
+      9. Sunken ruins walls_24: 6378416301828863213
+      9. Sunken ruins walls_25: -3758265765790377742
+      9. Sunken ruins walls_26: 1539810858872932700
+      9. Sunken ruins walls_27: -3183900514695775203
+      9. Sunken ruins walls_28: 5636457271297038904
+      9. Sunken ruins walls_29: -6818276771199938393
+      9. Sunken ruins walls_3: 1327510515421137356
+      9. Sunken ruins walls_30: 2774569663548224328
+      9. Sunken ruins walls_31: -9154707223965251268
+      9. Sunken ruins walls_32: 488164999597757715
+      9. Sunken ruins walls_33: 6037674578223706373
+      9. Sunken ruins walls_34: -3548511223585081097
+      9. Sunken ruins walls_35: -3867418580539711139
+      9. Sunken ruins walls_36: -7218644419320613339
+      9. Sunken ruins walls_37: 7797669380217041960
+      9. Sunken ruins walls_38: -7433182919512464803
+      9. Sunken ruins walls_39: 4166876210946465728
+      9. Sunken ruins walls_4: -4197641930300947401
+      9. Sunken ruins walls_40: 6654997574962313132
+      9. Sunken ruins walls_41: -4601959814389370738
+      9. Sunken ruins walls_42: 298954610742013971
+      9. Sunken ruins walls_43: -7883297767086202029
+      9. Sunken ruins walls_44: -3344559342311735418
+      9. Sunken ruins walls_45: -9212858714862202888
+      9. Sunken ruins walls_46: -7253601540511050988
+      9. Sunken ruins walls_47: -6598235456482372451
+      9. Sunken ruins walls_48: 1742106554792428206
+      9. Sunken ruins walls_49: 740028556375410326
+      9. Sunken ruins walls_5: 8517672906167694098
+      9. Sunken ruins walls_50: -3417395647283433730
+      9. Sunken ruins walls_51: -2430477139675384487
+      9. Sunken ruins walls_52: 4735664260852145168
+      9. Sunken ruins walls_53: -2846699091737012386
+      9. Sunken ruins walls_54: -8878247537481993276
+      9. Sunken ruins walls_55: -5507976126717410421
+      9. Sunken ruins walls_6: 8063539990982189465
+      9. Sunken ruins walls_7: 4837667082562572655
+      9. Sunken ruins walls_8: -7063487979954408924
+      9. Sunken ruins walls_9: -7011803859467819502
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

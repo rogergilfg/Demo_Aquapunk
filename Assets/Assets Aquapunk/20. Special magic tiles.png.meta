@@ -1,0 +1,1601 @@
+fileFormatVersion: 2
+guid: b6469c70d0842574a811009c8e1a332b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6935428725391141925
+    second: 20. Special magic tiles_0
+  - first:
+      213: 29914310033368019
+    second: 20. Special magic tiles_1
+  - first:
+      213: -6117249809815014121
+    second: 20. Special magic tiles_2
+  - first:
+      213: -5626323455751460442
+    second: 20. Special magic tiles_3
+  - first:
+      213: 8555650641507714342
+    second: 20. Special magic tiles_4
+  - first:
+      213: 1813105569792701362
+    second: 20. Special magic tiles_5
+  - first:
+      213: 7653263385667926440
+    second: 20. Special magic tiles_6
+  - first:
+      213: 1060379866974604534
+    second: 20. Special magic tiles_7
+  - first:
+      213: 7772251690149546771
+    second: 20. Special magic tiles_8
+  - first:
+      213: 5949377094659335741
+    second: 20. Special magic tiles_9
+  - first:
+      213: -5459566770988336606
+    second: 20. Special magic tiles_10
+  - first:
+      213: -585478733694699714
+    second: 20. Special magic tiles_11
+  - first:
+      213: 6124931825650764277
+    second: 20. Special magic tiles_12
+  - first:
+      213: 6087296871448250390
+    second: 20. Special magic tiles_13
+  - first:
+      213: 6289293091729578742
+    second: 20. Special magic tiles_14
+  - first:
+      213: 2852574861806100134
+    second: 20. Special magic tiles_15
+  - first:
+      213: -4341058913004971099
+    second: 20. Special magic tiles_16
+  - first:
+      213: -7941842010804789548
+    second: 20. Special magic tiles_17
+  - first:
+      213: 9199585999080554580
+    second: 20. Special magic tiles_18
+  - first:
+      213: -6449507803574744179
+    second: 20. Special magic tiles_19
+  - first:
+      213: -7708085317337813832
+    second: 20. Special magic tiles_20
+  - first:
+      213: -481961538970845337
+    second: 20. Special magic tiles_21
+  - first:
+      213: 8362653242510574977
+    second: 20. Special magic tiles_22
+  - first:
+      213: -4030546008453075048
+    second: 20. Special magic tiles_23
+  - first:
+      213: -2299975146465668272
+    second: 20. Special magic tiles_24
+  - first:
+      213: 8074929232701153556
+    second: 20. Special magic tiles_25
+  - first:
+      213: -3236040524323959856
+    second: 20. Special magic tiles_26
+  - first:
+      213: -8013580678077020688
+    second: 20. Special magic tiles_27
+  - first:
+      213: 8530191425672606493
+    second: 20. Special magic tiles_28
+  - first:
+      213: 3790811601257987923
+    second: 20. Special magic tiles_29
+  - first:
+      213: -3056721471072025691
+    second: 20. Special magic tiles_30
+  - first:
+      213: 7422229728312758375
+    second: 20. Special magic tiles_31
+  - first:
+      213: 7705681412506612621
+    second: 20. Special magic tiles_32
+  - first:
+      213: 5990710919727046687
+    second: 20. Special magic tiles_33
+  - first:
+      213: 3694172416243835325
+    second: 20. Special magic tiles_34
+  - first:
+      213: 8779319758051838877
+    second: 20. Special magic tiles_35
+  - first:
+      213: -5265182330079002041
+    second: 20. Special magic tiles_36
+  - first:
+      213: 1997972613813658994
+    second: 20. Special magic tiles_37
+  - first:
+      213: 363826390539811635
+    second: 20. Special magic tiles_38
+  - first:
+      213: 2033931488778777986
+    second: 20. Special magic tiles_39
+  - first:
+      213: -4701013880035651951
+    second: 20. Special magic tiles_40
+  - first:
+      213: -4533436415386276492
+    second: 20. Special magic tiles_41
+  - first:
+      213: 825600064001362451
+    second: 20. Special magic tiles_42
+  - first:
+      213: 8382566133686460050
+    second: 20. Special magic tiles_43
+  - first:
+      213: -5365689809096268164
+    second: 20. Special magic tiles_44
+  - first:
+      213: 1165572992230734522
+    second: 20. Special magic tiles_45
+  - first:
+      213: -3763451046142842785
+    second: 20. Special magic tiles_46
+  - first:
+      213: -4800247831806054516
+    second: 20. Special magic tiles_47
+  - first:
+      213: -6446890091642995736
+    second: 20. Special magic tiles_48
+  - first:
+      213: 4243274671391334476
+    second: 20. Special magic tiles_49
+  - first:
+      213: 3154042433226305902
+    second: 20. Special magic tiles_50
+  - first:
+      213: 330720922979553393
+    second: 20. Special magic tiles_51
+  - first:
+      213: -2175051404698881377
+    second: 20. Special magic tiles_52
+  - first:
+      213: -3016642105992217682
+    second: 20. Special magic tiles_53
+  - first:
+      213: -736023018111619226
+    second: 20. Special magic tiles_54
+  - first:
+      213: -7765481230239322915
+    second: 20. Special magic tiles_55
+  - first:
+      213: 1454704176320260674
+    second: 20. Special magic tiles_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20. Special magic tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 669
+        width: 282
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3550ad15860cf90800000000000000
+      internalID: -6935428725391141925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 884
+        width: 990
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d36d3f08e64a6000800000000000000
+      internalID: 29914310033368019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_2
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 666
+        width: 275
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71576a365b92b1ba0800000000000000
+      internalID: -6117249809815014121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 678
+        width: 177
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a96c7460a84be1b0800000000000000
+      internalID: -5626323455751460442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_4
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 678
+        width: 177
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625096dbde6cbb670800000000000000
+      internalID: 8555650641507714342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_5
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 674
+        width: 181
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3b6c3d8e1792910800000000000000
+      internalID: 1813105569792701362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_6
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 674
+        width: 184
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a97d33208ad53a60800000000000000
+      internalID: 7653263385667926440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_7
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 839
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc4ff1fed937be00800000000000000
+      internalID: 1060379866974604534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_8
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 840
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b0b48abb59cdb60800000000000000
+      internalID: 7772251690149546771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_9
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 754
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36e30a42fe609250800000000000000
+      internalID: 5949377094659335741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 459
+        width: 172
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ab6b3a2f8bb34b0800000000000000
+      internalID: -5459566770988336606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_11
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 445
+        width: 197
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37f4969136ffd7f0800000000000000
+      internalID: -585478733694699714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_12
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 453
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9066d4b01200550800000000000000
+      internalID: 6124931825650764277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_13
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 454
+        width: 184
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6180501b04c6a7450800000000000000
+      internalID: 6087296871448250390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_14
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 459
+        width: 176
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa1cdcaebe084750800000000000000
+      internalID: 6289293091729578742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_15
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 464
+        width: 166
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae592529b1669720800000000000000
+      internalID: 2852574861806100134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_16
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 610
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab9b452be571c3c0800000000000000
+      internalID: -4341058913004971099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_17
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 566
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ded4b3d4c8e8c190800000000000000
+      internalID: -7941842010804789548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_18
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 534
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4508ad389be7baf70800000000000000
+      internalID: 9199585999080554580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_19
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 534
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b41d7d2debe76a0800000000000000
+      internalID: -6449507803574744179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_20
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 495
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bceca93e31670590800000000000000
+      internalID: -7708085317337813832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_21
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 457
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ffd3aa88abf49f0800000000000000
+      internalID: -481961538970845337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 259
+        width: 179
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1858c9b11dc1e0470800000000000000
+      internalID: 8362653242510574977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_23
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 397
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f294392cf9018c0800000000000000
+      internalID: -4030546008453075048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_24
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 414
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053dfa24ac8d410e0800000000000000
+      internalID: -2299975146465668272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_25
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 406
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411e195ba59ef0070800000000000000
+      internalID: 8074929232701153556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_26
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 259
+        width: 169
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbc6e4d9464713d0800000000000000
+      internalID: -3236040524323959856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_27
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 256
+        width: 180
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f50940c4da0ac090800000000000000
+      internalID: -8013580678077020688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_28
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 259
+        width: 166
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d137c4128e3516670800000000000000
+      internalID: 8530191425672606493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_29
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 402
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f7967111bab9430800000000000000
+      internalID: 3790811601257987923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_30
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 411
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3417b64085495d0800000000000000
+      internalID: -3056721471072025691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_31
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 414
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7601d6dfc9e010760800000000000000
+      internalID: 7422229728312758375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_32
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 408
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8379c01b6410fa60800000000000000
+      internalID: 7705681412506612621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_33
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 255
+        width: 184
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10626267d7432350800000000000000
+      internalID: 5990710919727046687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_34
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 357
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1a2417d36544330800000000000000
+      internalID: 3694172416243835325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_35
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 276
+        width: 134
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b8f3c1ec866d970800000000000000
+      internalID: 8779319758051838877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_36
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 375
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7424af121905ee6b0800000000000000
+      internalID: -5265182330079002041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_37
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 358
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275625da1893abb10800000000000000
+      internalID: 1997972613813658994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_38
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 331
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bb900bc229c0500800000000000000
+      internalID: 363826390539811635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_39
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 314
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285f32ea9e9f93c10800000000000000
+      internalID: 2033931488778777986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_40
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 326
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e4b4c78c4a2ceb0800000000000000
+      internalID: -4701013880035651951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_41
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 334
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47da411799ff511c0800000000000000
+      internalID: -4533436415386276492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 322
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a475d42ee157b00800000000000000
+      internalID: 825600064001362451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_43
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 320
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ed9906c7bd45470800000000000000
+      internalID: 8382566133686460050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_44
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 320
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7622e91c8d3985b0800000000000000
+      internalID: -5365689809096268164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_45
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 276
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abab3b10672fc2010800000000000000
+      internalID: 1165572992230734522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_46
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 282
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f586511963985cbc0800000000000000
+      internalID: -3763451046142842785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_47
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 287
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f6c5f9708126db0800000000000000
+      internalID: -4800247831806054516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_48
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 262
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb32a56e9b0886a0800000000000000
+      internalID: -6446890091642995736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_49
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 260
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4061b0f4d323ea30800000000000000
+      internalID: 4243274671391334476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_50
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 256
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6176f6d1e865cb20800000000000000
+      internalID: 3154042433226305902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 278
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1705cfd5de4f69400800000000000000
+      internalID: 330720922979553393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_52
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 52
+        width: 173
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9275b6754aa0d1e0800000000000000
+      internalID: -2175051404698881377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_53
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 48
+        width: 179
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabf8d9ccfbb226d0800000000000000
+      internalID: -3016642105992217682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_54
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 47
+        width: 182
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f22f2f6fe19c5f0800000000000000
+      internalID: -736023018111619226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_55
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 47
+        width: 184
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc2f91e6f77b3490800000000000000
+      internalID: -7765481230239322915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20. Special magic tiles_56
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 52
+        width: 176
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24aa8d2bdb5203410800000000000000
+      internalID: 1454704176320260674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20. Special magic tiles_0: -6935428725391141925
+      20. Special magic tiles_1: 29914310033368019
+      20. Special magic tiles_10: -5459566770988336606
+      20. Special magic tiles_11: -585478733694699714
+      20. Special magic tiles_12: 6124931825650764277
+      20. Special magic tiles_13: 6087296871448250390
+      20. Special magic tiles_14: 6289293091729578742
+      20. Special magic tiles_15: 2852574861806100134
+      20. Special magic tiles_16: -4341058913004971099
+      20. Special magic tiles_17: -7941842010804789548
+      20. Special magic tiles_18: 9199585999080554580
+      20. Special magic tiles_19: -6449507803574744179
+      20. Special magic tiles_2: -6117249809815014121
+      20. Special magic tiles_20: -7708085317337813832
+      20. Special magic tiles_21: -481961538970845337
+      20. Special magic tiles_22: 8362653242510574977
+      20. Special magic tiles_23: -4030546008453075048
+      20. Special magic tiles_24: -2299975146465668272
+      20. Special magic tiles_25: 8074929232701153556
+      20. Special magic tiles_26: -3236040524323959856
+      20. Special magic tiles_27: -8013580678077020688
+      20. Special magic tiles_28: 8530191425672606493
+      20. Special magic tiles_29: 3790811601257987923
+      20. Special magic tiles_3: -5626323455751460442
+      20. Special magic tiles_30: -3056721471072025691
+      20. Special magic tiles_31: 7422229728312758375
+      20. Special magic tiles_32: 7705681412506612621
+      20. Special magic tiles_33: 5990710919727046687
+      20. Special magic tiles_34: 3694172416243835325
+      20. Special magic tiles_35: 8779319758051838877
+      20. Special magic tiles_36: -5265182330079002041
+      20. Special magic tiles_37: 1997972613813658994
+      20. Special magic tiles_38: 363826390539811635
+      20. Special magic tiles_39: 2033931488778777986
+      20. Special magic tiles_4: 8555650641507714342
+      20. Special magic tiles_40: -4701013880035651951
+      20. Special magic tiles_41: -4533436415386276492
+      20. Special magic tiles_42: 825600064001362451
+      20. Special magic tiles_43: 8382566133686460050
+      20. Special magic tiles_44: -5365689809096268164
+      20. Special magic tiles_45: 1165572992230734522
+      20. Special magic tiles_46: -3763451046142842785
+      20. Special magic tiles_47: -4800247831806054516
+      20. Special magic tiles_48: -6446890091642995736
+      20. Special magic tiles_49: 4243274671391334476
+      20. Special magic tiles_5: 1813105569792701362
+      20. Special magic tiles_50: 3154042433226305902
+      20. Special magic tiles_51: 330720922979553393
+      20. Special magic tiles_52: -2175051404698881377
+      20. Special magic tiles_53: -3016642105992217682
+      20. Special magic tiles_54: -736023018111619226
+      20. Special magic tiles_55: -7765481230239322915
+      20. Special magic tiles_56: 1454704176320260674
+      20. Special magic tiles_6: 7653263385667926440
+      20. Special magic tiles_7: 1060379866974604534
+      20. Special magic tiles_8: 7772251690149546771
+      20. Special magic tiles_9: 5949377094659335741
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

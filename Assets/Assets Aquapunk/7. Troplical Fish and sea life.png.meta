@@ -1,0 +1,1029 @@
+fileFormatVersion: 2
+guid: 36cac48ad2b67d24ebef247a6ef05c04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3495111742889904402
+    second: 7. Troplical Fish and sea life_0
+  - first:
+      213: -5615293070304260766
+    second: 7. Troplical Fish and sea life_1
+  - first:
+      213: 4996127464546789013
+    second: 7. Troplical Fish and sea life_2
+  - first:
+      213: 6112423201615077089
+    second: 7. Troplical Fish and sea life_3
+  - first:
+      213: 3753958864739057805
+    second: 7. Troplical Fish and sea life_4
+  - first:
+      213: -7346089656938657256
+    second: 7. Troplical Fish and sea life_5
+  - first:
+      213: -1316148347917015159
+    second: 7. Troplical Fish and sea life_6
+  - first:
+      213: -7684766219996711552
+    second: 7. Troplical Fish and sea life_7
+  - first:
+      213: 5833114751279344110
+    second: 7. Troplical Fish and sea life_8
+  - first:
+      213: -8654532533318850925
+    second: 7. Troplical Fish and sea life_9
+  - first:
+      213: 263699361467413462
+    second: 7. Troplical Fish and sea life_10
+  - first:
+      213: 5077314503338428606
+    second: 7. Troplical Fish and sea life_11
+  - first:
+      213: 3247911514575619872
+    second: 7. Troplical Fish and sea life_12
+  - first:
+      213: -348824280523791196
+    second: 7. Troplical Fish and sea life_13
+  - first:
+      213: -337374590516197065
+    second: 7. Troplical Fish and sea life_14
+  - first:
+      213: 7553645019471354782
+    second: 7. Troplical Fish and sea life_15
+  - first:
+      213: -3826171372986157883
+    second: 7. Troplical Fish and sea life_16
+  - first:
+      213: 4186887204528363618
+    second: 7. Troplical Fish and sea life_17
+  - first:
+      213: 469659449074111489
+    second: 7. Troplical Fish and sea life_18
+  - first:
+      213: 724511569029300356
+    second: 7. Troplical Fish and sea life_19
+  - first:
+      213: 6291585477178703792
+    second: 7. Troplical Fish and sea life_20
+  - first:
+      213: -6084339229947600827
+    second: 7. Troplical Fish and sea life_21
+  - first:
+      213: -2332205930727594304
+    second: 7. Troplical Fish and sea life_22
+  - first:
+      213: -8577703544585715381
+    second: 7. Troplical Fish and sea life_23
+  - first:
+      213: -6231201099121926630
+    second: 7. Troplical Fish and sea life_24
+  - first:
+      213: 5036057745644247745
+    second: 7. Troplical Fish and sea life_25
+  - first:
+      213: 1748476076938727658
+    second: 7. Troplical Fish and sea life_26
+  - first:
+      213: 6863071662966440390
+    second: 7. Troplical Fish and sea life_27
+  - first:
+      213: 7062223553989134385
+    second: 7. Troplical Fish and sea life_28
+  - first:
+      213: -4456223148468228028
+    second: 7. Troplical Fish and sea life_29
+  - first:
+      213: -1052018832547907844
+    second: 7. Troplical Fish and sea life_30
+  - first:
+      213: -8148371802292853491
+    second: 7. Troplical Fish and sea life_31
+  - first:
+      213: 2625843367517073585
+    second: 7. Troplical Fish and sea life_32
+  - first:
+      213: -5498801274125415637
+    second: 7. Troplical Fish and sea life_33
+  - first:
+      213: 2235403350909348415
+    second: 7. Troplical Fish and sea life_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 646
+        width: 240
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee630c2436ede7fc0800000000000000
+      internalID: -3495111742889904402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_1
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 786
+        width: 972
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d4dc224b87212b0800000000000000
+      internalID: -5615293070304260766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_2
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 646
+        width: 219
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59662e8557fc55540800000000000000
+      internalID: 4996127464546789013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 653
+        width: 121
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee5f115480b3d450800000000000000
+      internalID: 6112423201615077089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_4
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 647
+        width: 131
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80433ab2bdb81430800000000000000
+      internalID: 3753958864739057805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_5
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 650
+        width: 120
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a0006d0627d0a90800000000000000
+      internalID: -7346089656938657256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_6
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 646
+        width: 133
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98760b20d0a1cbde0800000000000000
+      internalID: -1316148347917015159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_7
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 646
+        width: 125
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085bc2ba6d93a5590800000000000000
+      internalID: -7684766219996711552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_8
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 646
+        width: 122
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9a81c06f263f050800000000000000
+      internalID: 5833114751279344110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 452
+        width: 162
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396e77eb38ce4e780800000000000000
+      internalID: -8654532533318850925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 457
+        width: 155
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d333cf0c29d8a300800000000000000
+      internalID: 263699361467413462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_11
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 452
+        width: 150
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb80d68d3ae367640800000000000000
+      internalID: 5077314503338428606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_12
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 456
+        width: 140
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0274e287056e21d20800000000000000
+      internalID: 3247911514575619872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_13
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 459
+        width: 144
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4295e3a2ab82bf0800000000000000
+      internalID: -348824280523791196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_14
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 462
+        width: 137
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7390a00f897615bf0800000000000000
+      internalID: -337374590516197065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_15
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 458
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b1df0df10f3d860800000000000000
+      internalID: 7553645019471354782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_16
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 452
+        width: 155
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4346f7865b6eac0800000000000000
+      internalID: -3826171372986157883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 267
+        width: 145
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2689a8cbabfca1a30800000000000000
+      internalID: 4186887204528363618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_18
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 269
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104d773d7c0948600800000000000000
+      internalID: 469659449074111489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_19
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 267
+        width: 142
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48007a3fe6bfd0a00800000000000000
+      internalID: 724511569029300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_20
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 267
+        width: 139
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf3e3148a3305750800000000000000
+      internalID: 6291585477178703792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 247
+        width: 120
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540eff1e4b5109ba0800000000000000
+      internalID: -6084339229947600827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_22
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 247
+        width: 119
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c62ce3001752afd0800000000000000
+      internalID: -2332205930727594304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_23
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 237
+        width: 107
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b410c54a210e5f880800000000000000
+      internalID: -8577703544585715381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_24
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 253
+        width: 108
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e50da5d935689a0800000000000000
+      internalID: -6231201099121926630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_25
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 257
+        width: 108
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cada7566dba3e540800000000000000
+      internalID: 5036057745644247745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 219
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae093386ab5d34810800000000000000
+      internalID: 1748476076938727658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_27
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 68
+        width: 154
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c10a2bb0578e3f50800000000000000
+      internalID: 6863071662966440390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_28
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 70
+        width: 126
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1384be3b7ee020260800000000000000
+      internalID: 7062223553989134385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_29
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 80
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440bda318a05822c0800000000000000
+      internalID: -4456223148468228028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_30
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 73
+        width: 171
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6f5f4127a7661f0800000000000000
+      internalID: -1052018832547907844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_31
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 69
+        width: 129
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05668a840b2bee80800000000000000
+      internalID: -8148371802292853491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_32
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 69
+        width: 129
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0bba461aed07420800000000000000
+      internalID: 2625843367517073585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_33
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 69
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b0a45006550b3b0800000000000000
+      internalID: -5498801274125415637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7. Troplical Fish and sea life_34
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 69
+        width: 117
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a6ba4018fb50f10800000000000000
+      internalID: 2235403350909348415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      7. Troplical Fish and sea life_0: -3495111742889904402
+      7. Troplical Fish and sea life_1: -5615293070304260766
+      7. Troplical Fish and sea life_10: 263699361467413462
+      7. Troplical Fish and sea life_11: 5077314503338428606
+      7. Troplical Fish and sea life_12: 3247911514575619872
+      7. Troplical Fish and sea life_13: -348824280523791196
+      7. Troplical Fish and sea life_14: -337374590516197065
+      7. Troplical Fish and sea life_15: 7553645019471354782
+      7. Troplical Fish and sea life_16: -3826171372986157883
+      7. Troplical Fish and sea life_17: 4186887204528363618
+      7. Troplical Fish and sea life_18: 469659449074111489
+      7. Troplical Fish and sea life_19: 724511569029300356
+      7. Troplical Fish and sea life_2: 4996127464546789013
+      7. Troplical Fish and sea life_20: 6291585477178703792
+      7. Troplical Fish and sea life_21: -6084339229947600827
+      7. Troplical Fish and sea life_22: -2332205930727594304
+      7. Troplical Fish and sea life_23: -8577703544585715381
+      7. Troplical Fish and sea life_24: -6231201099121926630
+      7. Troplical Fish and sea life_25: 5036057745644247745
+      7. Troplical Fish and sea life_26: 1748476076938727658
+      7. Troplical Fish and sea life_27: 6863071662966440390
+      7. Troplical Fish and sea life_28: 7062223553989134385
+      7. Troplical Fish and sea life_29: -4456223148468228028
+      7. Troplical Fish and sea life_3: 6112423201615077089
+      7. Troplical Fish and sea life_30: -1052018832547907844
+      7. Troplical Fish and sea life_31: -8148371802292853491
+      7. Troplical Fish and sea life_32: 2625843367517073585
+      7. Troplical Fish and sea life_33: -5498801274125415637
+      7. Troplical Fish and sea life_34: 2235403350909348415
+      7. Troplical Fish and sea life_4: 3753958864739057805
+      7. Troplical Fish and sea life_5: -7346089656938657256
+      7. Troplical Fish and sea life_6: -1316148347917015159
+      7. Troplical Fish and sea life_7: -7684766219996711552
+      7. Troplical Fish and sea life_8: 5833114751279344110
+      7. Troplical Fish and sea life_9: -8654532533318850925
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

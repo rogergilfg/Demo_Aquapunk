@@ -1,0 +1,977 @@
+fileFormatVersion: 2
+guid: ba34903b36f819642afb6f0e9d507efd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1293070445565553640
+    second: 2. Coral reef tiles_0
+  - first:
+      213: -6517608952687044705
+    second: 2. Coral reef tiles_1
+  - first:
+      213: -7568966325851368796
+    second: 2. Coral reef tiles_2
+  - first:
+      213: 5615954674820813721
+    second: 2. Coral reef tiles_3
+  - first:
+      213: -2385268453215929253
+    second: 2. Coral reef tiles_4
+  - first:
+      213: 6785702919803921441
+    second: 2. Coral reef tiles_5
+  - first:
+      213: -3223802236384091256
+    second: 2. Coral reef tiles_6
+  - first:
+      213: 1350652878850803636
+    second: 2. Coral reef tiles_7
+  - first:
+      213: -5417846602201073230
+    second: 2. Coral reef tiles_8
+  - first:
+      213: 2166811371330233047
+    second: 2. Coral reef tiles_9
+  - first:
+      213: 9188829125820204417
+    second: 2. Coral reef tiles_10
+  - first:
+      213: 3662577246123324986
+    second: 2. Coral reef tiles_11
+  - first:
+      213: -849389889386247420
+    second: 2. Coral reef tiles_12
+  - first:
+      213: 4423954666253495629
+    second: 2. Coral reef tiles_13
+  - first:
+      213: 3778349191921366768
+    second: 2. Coral reef tiles_14
+  - first:
+      213: -7146693881397424602
+    second: 2. Coral reef tiles_15
+  - first:
+      213: -9220656260378291366
+    second: 2. Coral reef tiles_16
+  - first:
+      213: -7194848762316408995
+    second: 2. Coral reef tiles_17
+  - first:
+      213: -5214127716289153395
+    second: 2. Coral reef tiles_18
+  - first:
+      213: 6882299074068994462
+    second: 2. Coral reef tiles_19
+  - first:
+      213: 3054265010117370840
+    second: 2. Coral reef tiles_20
+  - first:
+      213: 4566021010596483844
+    second: 2. Coral reef tiles_21
+  - first:
+      213: 1041194312485441085
+    second: 2. Coral reef tiles_22
+  - first:
+      213: -2832316520898978166
+    second: 2. Coral reef tiles_23
+  - first:
+      213: -1670098886577153725
+    second: 2. Coral reef tiles_24
+  - first:
+      213: -3414315164781422806
+    second: 2. Coral reef tiles_25
+  - first:
+      213: -7822699588131423098
+    second: 2. Coral reef tiles_26
+  - first:
+      213: -1941760832879309474
+    second: 2. Coral reef tiles_27
+  - first:
+      213: -5573287738211565178
+    second: 2. Coral reef tiles_28
+  - first:
+      213: 1140333392366666108
+    second: 2. Coral reef tiles_29
+  - first:
+      213: 7721408948610105984
+    second: 2. Coral reef tiles_30
+  - first:
+      213: 2984328911618980481
+    second: 2. Coral reef tiles_31
+  - first:
+      213: 8393224534699944121
+    second: 2. Coral reef tiles_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 174
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebad7128b8e1f110800000000000000
+      internalID: 1293070445565553640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 782
+        width: 893
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97de26703dcc85a0800000000000000
+      internalID: -6517608952687044705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_2
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 553
+        width: 175
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a25cbe8a31a5f690800000000000000
+      internalID: -7568966325851368796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 550
+        width: 114
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993936ba501efed40800000000000000
+      internalID: 5615954674820813721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_4
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 550
+        width: 118
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c7e10caf2d5eed0800000000000000
+      internalID: -2385268453215929253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_5
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 550
+        width: 120
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1246e367ad8ab2e50800000000000000
+      internalID: 6785702919803921441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_6
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 550
+        width: 122
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883673a42f0c243d0800000000000000
+      internalID: -3223802236384091256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_7
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 550
+        width: 122
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7c2c223ab7eb210800000000000000
+      internalID: 1350652878850803636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_8
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 550
+        width: 125
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b97f346831ffc4b0800000000000000
+      internalID: -5417846602201073230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_9
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 550
+        width: 122
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d26a63467f021e10800000000000000
+      internalID: 2166811371330233047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_10
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 550
+        width: 123
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185c64ac767458f70800000000000000
+      internalID: 9188829125820204417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_11
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 553
+        width: 111
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36fb95a99614d230800000000000000
+      internalID: 3662577246123324986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 345
+        width: 110
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b0357556c5634f0800000000000000
+      internalID: -849389889386247420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_13
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 344
+        width: 114
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4da870745b056d30800000000000000
+      internalID: 4423954666253495629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 345
+        width: 118
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f67bdd42946f6430800000000000000
+      internalID: 3778349191921366768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_15
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 344
+        width: 122
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e49d897c7d1dc90800000000000000
+      internalID: -7146693881397424602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_16
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 340
+        width: 128
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a539b2cfbf5a90080800000000000000
+      internalID: -9220656260378291366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_17
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 340
+        width: 132
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57b87dab23c62c90800000000000000
+      internalID: -7194848762316408995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_18
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 344
+        width: 126
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86f019b772b3a7b0800000000000000
+      internalID: -5214127716289153395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_19
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 340
+        width: 127
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99d1eb3b86d28f50800000000000000
+      internalID: 6882299074068994462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_20
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 344
+        width: 120
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d363f138dde26a20800000000000000
+      internalID: 3054265010117370840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_21
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 344
+        width: 115
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403d295dae3cd5f30800000000000000
+      internalID: 4566021010596483844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_22
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 343
+        width: 113
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e0ad1f5b0137e00800000000000000
+      internalID: 1041194312485441085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 184
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e9858612791b8d0800000000000000
+      internalID: -2832316520898978166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_24
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 139
+        width: 118
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3491bc549ed92d8e0800000000000000
+      internalID: -1670098886577153725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_25
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 154
+        width: 126
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2759fb827aed90d0800000000000000
+      internalID: -3414315164781422806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_26
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 149
+        width: 128
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cf4d8cb20307390800000000000000
+      internalID: -7822699588131423098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_27
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 142
+        width: 128
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d46757fca7d05e0800000000000000
+      internalID: -1941760832879309474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_28
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 141
+        width: 127
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6810cd4a454b7a2b0800000000000000
+      internalID: -5573287738211565178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_29
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 141
+        width: 130
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c710889bd2743df00800000000000000
+      internalID: 1140333392366666108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_30
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 141
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0828d6b6784f72b60800000000000000
+      internalID: 7721408948610105984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_31
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 145
+        width: 139
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a3afd55577a6920800000000000000
+      internalID: 2984328911618980481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Coral reef tiles_32
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 143
+        width: 234
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b822eebe39ba7470800000000000000
+      internalID: 8393224534699944121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2. Coral reef tiles_0: 1293070445565553640
+      2. Coral reef tiles_1: -6517608952687044705
+      2. Coral reef tiles_10: 9188829125820204417
+      2. Coral reef tiles_11: 3662577246123324986
+      2. Coral reef tiles_12: -849389889386247420
+      2. Coral reef tiles_13: 4423954666253495629
+      2. Coral reef tiles_14: 3778349191921366768
+      2. Coral reef tiles_15: -7146693881397424602
+      2. Coral reef tiles_16: -9220656260378291366
+      2. Coral reef tiles_17: -7194848762316408995
+      2. Coral reef tiles_18: -5214127716289153395
+      2. Coral reef tiles_19: 6882299074068994462
+      2. Coral reef tiles_2: -7568966325851368796
+      2. Coral reef tiles_20: 3054265010117370840
+      2. Coral reef tiles_21: 4566021010596483844
+      2. Coral reef tiles_22: 1041194312485441085
+      2. Coral reef tiles_23: -2832316520898978166
+      2. Coral reef tiles_24: -1670098886577153725
+      2. Coral reef tiles_25: -3414315164781422806
+      2. Coral reef tiles_26: -7822699588131423098
+      2. Coral reef tiles_27: -1941760832879309474
+      2. Coral reef tiles_28: -5573287738211565178
+      2. Coral reef tiles_29: 1140333392366666108
+      2. Coral reef tiles_3: 5615954674820813721
+      2. Coral reef tiles_30: 7721408948610105984
+      2. Coral reef tiles_31: 2984328911618980481
+      2. Coral reef tiles_32: 8393224534699944121
+      2. Coral reef tiles_4: -2385268453215929253
+      2. Coral reef tiles_5: 6785702919803921441
+      2. Coral reef tiles_6: -3223802236384091256
+      2. Coral reef tiles_7: 1350652878850803636
+      2. Coral reef tiles_8: -5417846602201073230
+      2. Coral reef tiles_9: 2166811371330233047
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

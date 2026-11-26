@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: 2583dff43fe0e3a45af4f79588c25019
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2767142067110496876
+    second: 11. Underwater doors and gates_0
+  - first:
+      213: 1227067627635001276
+    second: 11. Underwater doors and gates_1
+  - first:
+      213: -3417099929039026946
+    second: 11. Underwater doors and gates_2
+  - first:
+      213: 1294704777860362123
+    second: 11. Underwater doors and gates_3
+  - first:
+      213: -7682396907862713463
+    second: 11. Underwater doors and gates_4
+  - first:
+      213: 5606457671621956551
+    second: 11. Underwater doors and gates_5
+  - first:
+      213: -1554747659171488445
+    second: 11. Underwater doors and gates_6
+  - first:
+      213: -4872352457946896318
+    second: 11. Underwater doors and gates_7
+  - first:
+      213: 4032615372196135372
+    second: 11. Underwater doors and gates_8
+  - first:
+      213: -3161488242151476333
+    second: 11. Underwater doors and gates_9
+  - first:
+      213: 3340669622538146809
+    second: 11. Underwater doors and gates_10
+  - first:
+      213: 2066507693189513439
+    second: 11. Underwater doors and gates_11
+  - first:
+      213: 2792444629905574060
+    second: 11. Underwater doors and gates_12
+  - first:
+      213: -5236878701428140972
+    second: 11. Underwater doors and gates_13
+  - first:
+      213: -5933683946523112162
+    second: 11. Underwater doors and gates_14
+  - first:
+      213: 1066679213289142139
+    second: 11. Underwater doors and gates_15
+  - first:
+      213: 382534494556713909
+    second: 11. Underwater doors and gates_16
+  - first:
+      213: 5480743188609124611
+    second: 11. Underwater doors and gates_17
+  - first:
+      213: 1247531110825037867
+    second: 11. Underwater doors and gates_18
+  - first:
+      213: -8390939854642306363
+    second: 11. Underwater doors and gates_19
+  - first:
+      213: -2868677962595448131
+    second: 11. Underwater doors and gates_20
+  - first:
+      213: 9044213731485677774
+    second: 11. Underwater doors and gates_21
+  - first:
+      213: -6332980145598453551
+    second: 11. Underwater doors and gates_22
+  - first:
+      213: -8102575397694644094
+    second: 11. Underwater doors and gates_23
+  - first:
+      213: -1280416605640553091
+    second: 11. Underwater doors and gates_24
+  - first:
+      213: 6727607215512472038
+    second: 11. Underwater doors and gates_25
+  - first:
+      213: -3555091852674131014
+    second: 11. Underwater doors and gates_26
+  - first:
+      213: 8359739535147143265
+    second: 11. Underwater doors and gates_27
+  - first:
+      213: 1290488572107260527
+    second: 11. Underwater doors and gates_28
+  - first:
+      213: -1243029378450576972
+    second: 11. Underwater doors and gates_29
+  - first:
+      213: 8485860632348639670
+    second: 11. Underwater doors and gates_30
+  - first:
+      213: 9078004374237003146
+    second: 11. Underwater doors and gates_31
+  - first:
+      213: 874482784031821058
+    second: 11. Underwater doors and gates_32
+  - first:
+      213: -4598010942080201968
+    second: 11. Underwater doors and gates_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 304
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495b6de63f22999d0800000000000000
+      internalID: -2767142067110496876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 807
+        width: 954
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7c09c818b670110800000000000000
+      internalID: 1227067627635001276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_2
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 590
+        width: 329
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4cd9718b50490d0800000000000000
+      internalID: -3417099929039026946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 592
+        width: 197
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f2e55c227b7f110800000000000000
+      internalID: 1294704777860362123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_4
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b984327b4a26590800000000000000
+      internalID: -7682396907862713463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_5
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 590
+        width: 196
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c35a4d4c832ecd40800000000000000
+      internalID: 5606457671621956551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_6
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 590
+        width: 188
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d96bbcd3d6c6ae0800000000000000
+      internalID: -1554747659171488445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_7
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 382
+        width: 174
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248e29b114de16cb0800000000000000
+      internalID: -4872352457946896318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 381
+        width: 181
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1c787b05ab6f730800000000000000
+      internalID: 4032615372196135372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_9
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 381
+        width: 173
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393bcfca1332024d0800000000000000
+      internalID: -3161488242151476333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_10
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 381
+        width: 178
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3135372517c5e20800000000000000
+      internalID: 3340669622538146809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_11
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 381
+        width: 186
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd04c225cc5bdac10800000000000000
+      internalID: 2066507693189513439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_12
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 381
+        width: 202
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8087c8891c0c620800000000000000
+      internalID: 2792444629905574060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 169
+        width: 187
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4541195319ed257b0800000000000000
+      internalID: -5236878701428140972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_14
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 169
+        width: 181
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d4d0e73e157ada0800000000000000
+      internalID: -5933683946523112162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_15
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 169
+        width: 195
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77746dc71b9dce00800000000000000
+      internalID: 1066679213289142139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_16
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 169
+        width: 186
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3f26698190f4500800000000000000
+      internalID: 382534494556713909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_17
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 165
+        width: 172
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309403e44e28f0c40800000000000000
+      internalID: 5480743188609124611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_18
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 168
+        width: 166
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2099f28fee105110800000000000000
+      internalID: 1247531110825037867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_19
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 169
+        width: 192
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2a068c8a46d8b80800000000000000
+      internalID: -8390939854642306363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 183
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbac18887986038d0800000000000000
+      internalID: -2868677962595448131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_21
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 34
+        width: 89
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8f9e17870838d70800000000000000
+      internalID: 9044213731485677774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_22
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 34
+        width: 83
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8a0047c1cbc18a0800000000000000
+      internalID: -6332980145598453551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_23
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 34
+        width: 87
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2806796ea9edd8f80800000000000000
+      internalID: -8102575397694644094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_24
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 35
+        width: 85
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d884091eb0b3ee0800000000000000
+      internalID: -1280416605640553091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_25
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 35
+        width: 82
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9c9fc3e134d5d50800000000000000
+      internalID: 6727607215512472038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_26
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 35
+        width: 91
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb1971bbc6c9aec0800000000000000
+      internalID: -3555091852674131014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_27
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 30
+        width: 60
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1601c3fb0d2c30470800000000000000
+      internalID: 8359739535147143265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_28
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 35
+        width: 47
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62872fd48cb8e110800000000000000
+      internalID: 1290488572107260527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_29
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 39
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9241cbd5fdfbee0800000000000000
+      internalID: -1243029378450576972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_30
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 39
+        width: 74
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1cc9cf845d3c570800000000000000
+      internalID: 8485860632348639670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_31
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 39
+        width: 39
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8db6db81ec8bfd70800000000000000
+      internalID: 9078004374237003146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_32
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 39
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d49687579c22c00800000000000000
+      internalID: 874482784031821058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11. Underwater doors and gates_33
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 39
+        width: 97
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b43f3d8659030c0800000000000000
+      internalID: -4598010942080201968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      11. Underwater doors and gates_0: -2767142067110496876
+      11. Underwater doors and gates_1: 1227067627635001276
+      11. Underwater doors and gates_10: 3340669622538146809
+      11. Underwater doors and gates_11: 2066507693189513439
+      11. Underwater doors and gates_12: 2792444629905574060
+      11. Underwater doors and gates_13: -5236878701428140972
+      11. Underwater doors and gates_14: -5933683946523112162
+      11. Underwater doors and gates_15: 1066679213289142139
+      11. Underwater doors and gates_16: 382534494556713909
+      11. Underwater doors and gates_17: 5480743188609124611
+      11. Underwater doors and gates_18: 1247531110825037867
+      11. Underwater doors and gates_19: -8390939854642306363
+      11. Underwater doors and gates_2: -3417099929039026946
+      11. Underwater doors and gates_20: -2868677962595448131
+      11. Underwater doors and gates_21: 9044213731485677774
+      11. Underwater doors and gates_22: -6332980145598453551
+      11. Underwater doors and gates_23: -8102575397694644094
+      11. Underwater doors and gates_24: -1280416605640553091
+      11. Underwater doors and gates_25: 6727607215512472038
+      11. Underwater doors and gates_26: -3555091852674131014
+      11. Underwater doors and gates_27: 8359739535147143265
+      11. Underwater doors and gates_28: 1290488572107260527
+      11. Underwater doors and gates_29: -1243029378450576972
+      11. Underwater doors and gates_3: 1294704777860362123
+      11. Underwater doors and gates_30: 8485860632348639670
+      11. Underwater doors and gates_31: 9078004374237003146
+      11. Underwater doors and gates_32: 874482784031821058
+      11. Underwater doors and gates_33: -4598010942080201968
+      11. Underwater doors and gates_4: -7682396907862713463
+      11. Underwater doors and gates_5: 5606457671621956551
+      11. Underwater doors and gates_6: -1554747659171488445
+      11. Underwater doors and gates_7: -4872352457946896318
+      11. Underwater doors and gates_8: 4032615372196135372
+      11. Underwater doors and gates_9: -3161488242151476333
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
