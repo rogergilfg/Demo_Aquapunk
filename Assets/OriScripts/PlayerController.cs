@@ -13,6 +13,7 @@ public class PlayerController : MonoBehaviour
     private float currentAq;    //Aq = mana, lo he puesto por aquatista
     [SerializeField]
     private float maxAq;
+    public bool canMove;
     
 
     [Header("Movement")]
@@ -25,6 +26,8 @@ public class PlayerController : MonoBehaviour
     [Header("Attack")]
     [SerializeField]
     private GameObject attackCollider; //Provisional
+    private int combo;
+    private bool canAttack;
 
     [Header("Other")]
     private Rigidbody2D rb;
@@ -33,6 +36,7 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        canMove = true;
     }
 
     // Update is called once per frame
@@ -51,41 +55,59 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        rb.linearVelocity = new Vector2(moveInputX * speed, moveInputY * speed);
+        if (canMove == true)
+        {
+            rb.linearVelocity = new Vector2(moveInputX * speed, moveInputY * speed);
+        }
+        else
+        { 
+            rb.linearVelocity = Vector2.zero;
+        }
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D other)
     {
 
     }
 
 
 
-    //METODOS DE INPUTS
     public void OnMove(InputValue value)
     {
         moveInputX = value.Get<Vector2>().x;
         moveInputY = value.Get<Vector2>().y;
     }
 
-
-
-
-
     public void OnAttack(InputValue value)
     {
         if (value.isPressed)
         {
-            Debug.Log("Attack");
-            StartCoroutine(AttackCoroutine());
+            Debug.Log("Attack"); 
+            
+            if (canAttack == true)
+            {
+                //other.GetComponent<EnemyController>().TakeDamage();
+                StartCoroutine(AttackCoroutine());
+                combo++;
+
+                switch (combo)
+                {
+                  
+                }
+            }
+
         }
     }
 
+
+
     IEnumerator AttackCoroutine()
     {
+        canAttack = false;
         attackCollider.SetActive(true);
-        yield return new WaitForSeconds(0.5f); // Duración del ataque
+        yield return new WaitForSeconds(0.5f); 
         attackCollider.SetActive(false);
+        canAttack = true;
     }
 }
 

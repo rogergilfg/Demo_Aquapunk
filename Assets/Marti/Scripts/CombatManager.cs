@@ -6,7 +6,7 @@ public class CombatManager : MonoBehaviour
 {
     private CameraController camController;
     private LevelManager lM;
-    private Test_PlayerController player; //Cambiar por PlayerController final
+    private PlayerController player; //Cambiar por PlayerController final
     [SerializeField] private Transform enemiesCameraPosition;
     [SerializeField] private float camPanTime;
     
@@ -21,7 +21,7 @@ public class CombatManager : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            player = other.GetComponent<Test_PlayerController>();
+            player = other.GetComponent<PlayerController>();
             StartCombat();
         }
     }
