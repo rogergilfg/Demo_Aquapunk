@@ -56,6 +56,21 @@ TextureImporter:
   - first:
       213: 2296480261061332097
     second: sprites karl_17
+  - first:
+      213: -4891271495860067158
+    second: sprites karl_18
+  - first:
+      213: 108251857074414147
+    second: sprites karl_19
+  - first:
+      213: 8503914631745213974
+    second: sprites karl_20
+  - first:
+      213: -2757714829885015940
+    second: sprites karl_21
+  - first:
+      213: -4464388461178993679
+    second: sprites karl_22
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -548,11 +563,121 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: sprites karl_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa464455d76be1cb0800000000000000
+      internalID: -4891271495860067158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites karl_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342623f8d76908100800000000000000
+      internalID: 108251857074414147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites karl_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6169b694d49f30670800000000000000
+      internalID: 8503914631745213974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites karl_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7870e429f0aab9d0800000000000000
+      internalID: -2757714829885015940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites karl_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3c210195e4b02c0800000000000000
+      internalID: -4464388461178993679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: abe9980bc21527a43baa11247af61faf
+    spriteID: a85cb780ad0dc8b4481e1e53c1fb0e17
     internalID: 0
     vertices: []
     indices: 
@@ -574,7 +699,12 @@ TextureImporter:
       sprites karl_15: 3930637827182293948
       sprites karl_16: 8279491782841343523
       sprites karl_17: 2296480261061332097
+      sprites karl_18: -4891271495860067158
+      sprites karl_19: 108251857074414147
       sprites karl_2: 1165859722427505516
+      sprites karl_20: 8503914631745213974
+      sprites karl_21: -2757714829885015940
+      sprites karl_22: -4464388461178993679
       sprites karl_3: 7617935066297145030
       sprites karl_4: -2874268372485280759
       sprites karl_5: 4139123835325690933
