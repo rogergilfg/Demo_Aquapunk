@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections;
+using Unity.Hierarchy;
 
 public class EnemyController : MonoBehaviour
 {
@@ -14,11 +15,17 @@ public class EnemyController : MonoBehaviour
     private float speed;
     private Vector2 playerPos;
     private Vector2 selfPos;
+    [SerializeField]
+    private float stopingDistance;
+    [SerializeField]
+    private float updateInterval = 0.3f;
 
     [Header("Other")]
     private Rigidbody2D rb;
     private GameObject player;
     private bool attacking;
+    private bool coroutineStarted;
+    private float distanceToPlayer;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -38,6 +45,22 @@ public class EnemyController : MonoBehaviour
             else if (playerPos.x < transform.position.x)
             {
                 transform.localScale = new Vector3(-1, 1, 1);
+            }
+
+            distanceToPlayer = (selfPos - playerPos).magnitude;
+
+            if (distanceToPlayer <= stopingDistance)
+            {
+                rb.linearVelocity = new Vector2(0, 0);
+                //StopCoroutine(FollowingPlayerCoroutine());
+                coroutineStarted = false;
+                return;
+            }
+
+            if (distanceToPlayer > stopingDistance && coroutineStarted == false)
+            {
+                //StartCoroutine(FollowingPlayerCoroutine());
+                coroutineStarted = true;
             }
         }
 
@@ -62,29 +85,72 @@ public class EnemyController : MonoBehaviour
             playerPos = new Vector2(player.transform.position.x, player.transform.position.y);
             selfPos = new Vector2(transform.position.x, transform.position.y);
 
-            StartCoroutine(FollowingPlayerCoroutine());
+            //StartCoroutine(FollowingPlayerCoroutine());
         }
     }
 
     private void FollowPlayer()
     {
-        Vector2 direction = (playerPos - selfPos).normalized;
-        rb.linearVelocity = direction * speed;
+ 
+        if (distanceToPlayer > stopingDistance)
+        {
+            Vector2 direction = (playerPos - selfPos).normalized;
+            rb.linearVelocity = direction * speed;
+        }
+
     }
 
-    IEnumerator FollowingPlayerCoroutine()
+    /*private IEnumerator FollowingPlayerCoroutine()
     {
+        var wait = new WaitForSeconds(updateInterval);
+
         while (true)
         {
-            if (playerPos != null && attacking == false)
+            if (!attacking)
             {
-                selfPos = new Vector2(transform.position.x, transform.position.y);
-                playerPos = new Vector2(player.transform.position.x, player.transform.position.y);
-                FollowPlayer();
+                Vector2 toPlayer = (Vector2)player.position - rb.position;
+                float distance = toPlayer.magnitude;
+
+                // Girar hacia el player
+                transform.localScale = new Vector3(toPlayer.x >= 0 ? 1 : -1, 1, 1);
+
+                if (distance <= stopingDistance)
+                {
+                    rb.linearVelocity = Vector2.zero;
+                }
+                else
+                {
+                    // Velocidad máxima para no pasarse de la distancia antes del próximo tick
+                    float arriveSpeed = (distance - stopingDistance) / updateInterval;
+                    rb.linearVelocity = toPlayer.normalized * Mathf.Min(speed, arriveSpeed);
+                }
             }
-            yield return new WaitForSeconds(0.3f);
+
+            yield return wait;
         }
-    }
+    }*/
+
+
+
+
+
+
+
+
+    /* IEnumerator FollowingPlayerCoroutine()
+     {
+         while (true)
+         {
+             if (playerPos != null && attacking == false)
+             {
+                 selfPos = new Vector2(transform.position.x, transform.position.y);
+                 playerPos = new Vector2(player.transform.position.x, player.transform.position.y);
+
+                 FollowPlayer();
+             }
+             yield return new WaitForSeconds(0.3f);
+         }
+     }*/
 
 }
 

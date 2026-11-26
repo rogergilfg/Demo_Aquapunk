@@ -235,6 +235,7 @@ MonoBehaviour:
   currentHealth: 5
   maxHealth: 5
   speed: 5
+  stopingDistance: 2
 --- !u!1 &495978789
 GameObject:
   m_ObjectHideFlags: 0
