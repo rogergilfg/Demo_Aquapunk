@@ -9,6 +9,7 @@ public class EnemyController : MonoBehaviour
     private float currentHealth;
     [SerializeField]
     private float maxHealth;
+    private bool death;
 
     [Header("Movement")]
     [SerializeField]
@@ -20,22 +21,35 @@ public class EnemyController : MonoBehaviour
     [SerializeField]
     private float updateInterval = 0.3f;
 
+    [Header("Combat")]
+    [SerializeField] private float attackTime; //Duración de la animación de ataque
+    [SerializeField] private GameObject attackCollider;
+
     [Header("Other")]
     private Rigidbody2D rb;
     private GameObject player;
+    private bool playerDetected;
     private bool attacking;
     private bool coroutineStarted;
     private float distanceToPlayer;
+    private LevelManager lM;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        lM = FindAnyObjectByType<LevelManager>();
+        attackCollider.SetActive(false);
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (death)
+        {
+            return;
+        }
+
         if(playerPos != null)
         {
             if (playerPos.x > transform.position.x)
@@ -52,14 +66,20 @@ public class EnemyController : MonoBehaviour
             if (distanceToPlayer <= stopingDistance)
             {
                 rb.linearVelocity = new Vector2(0, 0);
-                //StopCoroutine(FollowingPlayerCoroutine());
+                StopCoroutine(FollowingPlayerCoroutine());
                 coroutineStarted = false;
+
+                if(lM.enemiesAttacking < lM.maxEnemiesAttacking && attacking == false)
+                {
+                    
+                }
+
                 return;
             }
 
             if (distanceToPlayer > stopingDistance && coroutineStarted == false)
             {
-                //StartCoroutine(FollowingPlayerCoroutine());
+                StartCoroutine(FollowingPlayerCoroutine());
                 coroutineStarted = true;
             }
         }
@@ -68,39 +88,38 @@ public class EnemyController : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        if (death)
+        {
+            return;
+        }
+
         if (other.gameObject.tag == "Player")
         {
             Debug.Log("Player detected");
             player = other.gameObject;
             DetectPlayer();
-
-
+            playerDetected = true;
         }
     }
 
     private void DetectPlayer()
     {
-        if (player != null)
+        if (playerDetected == false)
         {
-            playerPos = new Vector2(player.transform.position.x, player.transform.position.y);
-            selfPos = new Vector2(transform.position.x, transform.position.y);
-
-            //StartCoroutine(FollowingPlayerCoroutine());
+            StartCoroutine(FollowingPlayerCoroutine());
         }
     }
 
-    private void FollowPlayer()
+    /*private void FollowPlayer()
     {
- 
         if (distanceToPlayer > stopingDistance)
         {
             Vector2 direction = (playerPos - selfPos).normalized;
             rb.linearVelocity = direction * speed;
         }
+    }*/
 
-    }
-
-    /*private IEnumerator FollowingPlayerCoroutine()
+    private IEnumerator FollowingPlayerCoroutine()
     {
         var wait = new WaitForSeconds(updateInterval);
 
@@ -108,11 +127,11 @@ public class EnemyController : MonoBehaviour
         {
             if (!attacking)
             {
-                Vector2 toPlayer = (Vector2)player.position - rb.position;
-                float distance = toPlayer.magnitude;
+                playerPos = new Vector2(player.transform.position.x, player.transform.position.y);
+                selfPos = new Vector2(transform.position.x, transform.position.y);
 
-                // Girar hacia el player
-                transform.localScale = new Vector3(toPlayer.x >= 0 ? 1 : -1, 1, 1);
+                Vector2 toPlayer = (Vector2)player.transform.position - rb.position;
+                float distance = toPlayer.magnitude; 
 
                 if (distance <= stopingDistance)
                 {
@@ -128,9 +147,52 @@ public class EnemyController : MonoBehaviour
 
             yield return wait;
         }
-    }*/
+    }
 
+    private IEnumerator AttackCoroutine()
+    {
+        attacking = true;
+        lM.enemiesAttacking += 1;
+        AttackCollider(); //Se tendria que activar la animación
+        yield return new WaitForSeconds(attackTime);
+        AttackCollider(); //Se tendría que quitar cuando esté puesta la animación
+        attacking = false;
+        lM.enemiesAttacking -= 1;
+    }
 
+    public void AttackCollider() //Se tendría que llamar en Animation Event
+    {
+        if(attackCollider.activeSelf == false)
+        {
+            attackCollider.SetActive(true);
+        }
+        else
+        {
+            attackCollider.SetActive(false);
+        }
+    }
+
+    public void TakeDamage(float _damage)
+    {
+        currentHealth -= _damage;
+        if (currentHealth < 0)
+        {
+            //Animación de muelto
+            Debug.Log("enemigo muelto");
+
+        }
+        else
+        {
+            //Animación de hit
+            Debug.Log("enemigo golpeado");
+        }
+    }
+
+    private void Die()
+    {
+        death = true;
+        GetComponent<Collider2D>().isTrigger = true;
+    }
 
 
 
