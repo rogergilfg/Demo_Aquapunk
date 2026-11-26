@@ -9,11 +9,14 @@ public class Test_PlayerController : MonoBehaviour
     private Rigidbody2D rb;
     private Vector2 moveInput;
 
+    public bool canMove; //añadir al PlayerController real
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         rb.gravityScale = 0f;      // vista top-down, sin gravedad
         rb.freezeRotation = true;  // evita que gire al chocar
+        canMove = true;
     }
 
     private void Update()
@@ -29,6 +32,13 @@ public class Test_PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        rb.linearVelocity = moveInput * speed;
+        if (canMove)
+        {
+            rb.linearVelocity = moveInput * speed;
+        }
+        else
+        {
+            rb.linearVelocity = Vector2.zero;
+        }
     }
 }

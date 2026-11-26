@@ -2,15 +2,13 @@ using UnityEngine;
 
 public class CameraController : MonoBehaviour
 {
-    private Transform player;
     public Transform target;
     [SerializeField] float smoothTime;
     private Vector3 camVelocity;
     
     private void Start()
     {
-        player = FindAnyObjectByType<Test_PlayerController>().transform;
-        target = player;
+
     }
 
     void LateUpdate()
@@ -19,7 +17,7 @@ public class CameraController : MonoBehaviour
         transform.position = Vector3.SmoothDamp(transform.position, targetPos, ref camVelocity, smoothTime);
     }
 
-    public void ChangeTarget(Transform _target)
+    public void SetTarget(Transform _target)
     {
         target = _target;
     }
