@@ -61,6 +61,17 @@
                 },
                 {
                     "name": "",
+                    "id": "8027b8dc-e5db-4f3d-b4b9-19d7a8c1406b",
+                    "path": "<Gamepad>/buttonWest",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Attack",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "b5fb5451-dad7-4052-9996-ba8d59d0b3fa",
                     "path": "<Keyboard>/l",
                     "interactions": "",
@@ -72,8 +83,30 @@
                 },
                 {
                     "name": "",
+                    "id": "75f903d3-1709-464f-b7ed-9eca5cdfff0c",
+                    "path": "<Gamepad>/leftShoulder",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Skill1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "643d2636-e578-4bc6-ad8b-27cad9a4ebab",
                     "path": "<Keyboard>/q",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Skill2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c957fd76-4a32-4a47-a30f-0b3f3c48aed2",
+                    "path": "<Gamepad>/rightShoulder",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
