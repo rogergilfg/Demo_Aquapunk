@@ -11,7 +11,7 @@ public class CameraController : MonoBehaviour
 
     }
 
-    void LateUpdate()
+    void FixedUpdate()
     {
         Vector3 targetPos = new Vector3(target.position.x, transform.position.y, transform.position.z);
         transform.position = Vector3.SmoothDamp(transform.position, targetPos, ref camVelocity, smoothTime);
